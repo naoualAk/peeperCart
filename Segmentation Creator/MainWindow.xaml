@@ -1,0 +1,202 @@
+﻿<Window  x:Class="SegmentationCreator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SegmentationCreator"        
+                       
+        xmlns:emgu="clr-namespace:Emgu.CV.UI;assembly=Emgu.CV.UI"
+        mc:Ignorable="d"
+        Title="Segmentation Creator" Height="800" Width="1000"
+        Icon="SegmentationCreator_logo.ico"
+        
+        WindowStartupLocation="CenterScreen"  BorderBrush="#FF52597A"
+                       PreviewKeyDown="WindowKeyDown"
+    >
+
+
+    <Grid Background="#FFF1F1F1" Margin="0,0,2,2">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="63*"/>
+            <ColumnDefinition Width="596*"/>
+            <ColumnDefinition Width="5"/>
+            <ColumnDefinition Width="319*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="2"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="14*"/>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="4*"/>
+        </Grid.RowDefinitions>
+        <WindowsFormsHost Panel.ZIndex="1" Grid.Row="3" Grid.RowSpan="3" Margin="10,0,10,5" Grid.ColumnSpan="2">
+            <emgu:ImageBox x:Name="imgBox" MouseClick="imgBox_MouseClick"/>
+        </WindowsFormsHost>
+
+        <GridSplitter Grid.Column="2" Grid.Row="1" Grid.RowSpan="6" Background="#FF919090" Width="5" HorizontalAlignment="Stretch"/>
+
+        <Button x:Name="buttonPath" Grid.Column="0" Grid.ColumnSpan="4" Content="Image Exemple Path" VerticalAlignment="CEnter"  HorizontalAlignment="Center" MinWidth="250" Click="btPath_Click" />
+        <Grid Grid.Row="1" Grid.ColumnSpan="4" Background="#FF1C5180"/>
+        <Button x:Name="buttonSave" Content="SAVE SEGMENTATION" Grid.Column="3" HorizontalAlignment="Center"  VerticalAlignment="Top" Width="123" Click="btSave_Click" Height="27" Grid.Row="6"/>
+        <GroupBox x:Name="groupBox" Grid.Column="3" Header="Color Segmentation" HorizontalAlignment="Center" Margin="20,0,0,10" Width="283" Grid.Row="4" Background="#CCFFFFFF">
+            <GroupBox.HeaderTemplate>
+                <DataTemplate>
+                    <Grid Width="{Binding ElementName=groupBox_Copy, Path=ActualWidth}" Margin="-10, 0, -10, 0" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+                        <Label Content="{Binding}" HorizontalAlignment="Stretch" Background="#25A0DA" Grid.Column="0" Height="20" Padding="5, 0, 0, 0" Margin="10" Foreground="White"/>
+                    </Grid>
+                </DataTemplate>
+            </GroupBox.HeaderTemplate>
+            <Grid Margin="0,0,0,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition />
+                    <RowDefinition Height="20"/>
+                    <RowDefinition />
+                    <RowDefinition />
+                    <RowDefinition />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="4*"/>
+                    <ColumnDefinition Width="3*"/>
+                    <ColumnDefinition Width="3*"/>
+                  
+                </Grid.ColumnDefinitions>
+
+                
+                <!-- Expert part interface-->
+                <Grid Grid.Row="0" Grid.Column="0"  Grid.RowSpan="6" Background="#FFF5A400" />
+                <Label x:Name="Expert_Part" Grid.Column="0" Grid.Row="0" HorizontalAlignment="Left"  VerticalAlignment="Center" Content="Expert Part"   Grid.RowSpan="6" HorizontalContentAlignment="Stretch"  VerticalContentAlignment="Stretch" Foreground="White"  FontSize="14"   >
+                    <Label.LayoutTransform>
+                        <RotateTransform Angle="-90" />
+                    </Label.LayoutTransform>
+                </Label>
+                <Grid Grid.Row="0" Grid.Column="1"  Grid.ColumnSpan="4" Grid.RowSpan="6" Background="#FFD3CECE" />
+
+                <CheckBox x:Name="checkbox_hue" Grid.Row="2" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center" Checked="checkbox_hue_Checked"  Grid.ColumnSpan="2" Unchecked="checkbox_hue_Unchecked">Inverse</CheckBox>
+
+
+                <Grid Grid.Row="2" Grid.Column="2"  >
+                    <Grid.Background>
+                        <ImageBrush ImageSource="pack://siteoforigin:,,,/Resources/teinte.png"/>
+                    </Grid.Background>
+
+                </Grid>
+
+                <Label x:Name="label_hue_inf"  Grid.Row="0" Grid.Column="1" Content="Low Hue" HorizontalAlignment="Center"  VerticalAlignment="Center" />
+                <Slider x:Name="slider_tDown" Grid.Row="0" Grid.Column="2"   Maximum="179" ValueChanged="slider_tDown_ValueChanged"  VerticalAlignment="Center"/>
+                <TextBox x:Name="textBox_hue_inf_value"  Width="40" HorizontalAlignment="Center" Grid.Row="0" Grid.Column="3" Text="0" VerticalAlignment="Center" Height="25" TextChanged="label_hue_inf_value_TextChanged" />
+                <!--Grid.Row="1"--> 
+                <Label x:Name="label_hue_sup" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center"  VerticalAlignment="Center" Content="High Hue"  />
+                <Slider x:Name="slider_tUp" Grid.Row="1" Grid.Column="2"  VerticalAlignment="Center"  IsDirectionReversed="True" LargeChange="0" Maximum="179" ValueChanged="slider_tUp_ValueChanged" />
+                <TextBox x:Name="textBox_hue_sup_value"  Grid.Row="1" Text="179" Grid.Column="3" TextChanged="label_hue_sup_value_TextChanged" Height="20" VerticalAlignment="Center" HorizontalAlignment="Center" Width="40" />
+
+                <!--Grid.Row="2"-->
+                <!--<Grid Grid.Row="2" Grid.Column="1">
+                    <Grid.Background>
+                        <ImageBrush ImageSource="pack://siteoforigin:,,,/Resources/teinte2.png"/>
+                    </Grid.Background>
+
+                </Grid>-->
+
+
+                <!--Grid.Row="3"-->
+                <Label x:Name="label_saturation" Grid.Row="3" Grid.Column="1" HorizontalAlignment="Center"  VerticalAlignment="Center" Content="Saturation" />
+                <Slider x:Name="slider_saturation" Grid.Row="3" Grid.Column="2"  Maximum="100" ValueChanged="slider_Saturation_ValueChanged" VerticalAlignment="Center" />
+                <TextBox x:Name="textBox_saturation" Width="40" Grid.Row="3" HorizontalAlignment="Center" Text="0" Grid.Column="3" TextChanged="label_saturation_TextChanged" Height="25" VerticalAlignment="Center" />
+
+
+                <!--Grid.Row="4"-->
+                <Label x:Name="label_lowLightness" Grid.Row="4" Grid.Column="1" HorizontalAlignment="Center"  VerticalAlignment="Center" Content="Low Lightness" />
+                <Slider x:Name="slider_lowLightness" Grid.Row="4" Grid.Column="2"  Maximum="255" ValueChanged="slider_lowLightness_ValueChanged"  VerticalAlignment="Center" Value="0"/>
+                <TextBox x:Name="textBox_lowLightness" Width="40" Grid.Row="4" HorizontalAlignment="Center" Text="0" Grid.Column="3" TextChanged="label_lowLightness_TextChanged" Height="25" VerticalAlignment="Center"/>
+
+                <!--Grid.Row="5"-->
+                <Label x:Name="label_hightLightness" Grid.Row="5" Grid.Column="1" HorizontalAlignment="Center"  VerticalAlignment="Center" Content="High Lightness" />
+                <Slider x:Name="slider_hightLightness" Grid.Row="5" Grid.Column="2"  Maximum="255" ValueChanged="slider_hightLightness_ValueChanged"  VerticalAlignment="Center" Value="255"/>
+                <TextBox x:Name="textBox_hightLightness" Width="40" Grid.Row="5" HorizontalAlignment="Center" Text="255" Grid.Column="3" TextChanged="label_hightLightness_TextChanged" Height="25" VerticalAlignment="Center"/>
+               
+
+                
+                
+                <!--Grid.Row="5"-->
+                <Button x:Name="button_ok_seuillage" Content="Process" Grid.Column="2" HorizontalAlignment="Left" Grid.Row="6" VerticalAlignment="Center" Width="75" Click="button_ok_seuillage_Click" />
+            </Grid>
+        </GroupBox>
+
+
+        <GroupBox x:Name="groupBox_Copy" Header="Morphology"  HorizontalAlignment="Center" Margin="20,0,0,10" Grid.Row="5" Width="282" Grid.Column="3" Background="#CCFFFFFF">
+            <GroupBox.HeaderTemplate>
+                <DataTemplate>
+                    <Grid Width="{Binding ElementName=groupBox_Copy, Path=ActualWidth}" Margin="-10, 0, -10, 0" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+                        <Label Content="{Binding}" HorizontalAlignment="Stretch" Background="#25A0DA" Grid.Column="0" Height="20" Padding="5, 0, 0, 0" Margin="10" Foreground="White"/>
+                    </Grid>
+                </DataTemplate>
+            </GroupBox.HeaderTemplate>
+            <Grid HorizontalAlignment="Left" Margin="0,0,-2,0" Width="272">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Label x:Name="label_Copy3" Content="Closing"  VerticalAlignment="Top"  Grid.Row="1" HorizontalAlignment="Center" />
+                <Label x:Name="label_Copy2" Content="Openning"  Grid.Row="2" RenderTransformOrigin="0.5,0.548" Height="42" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                <Label x:Name="label_Copy4" Content="Size"  Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0,0,0,0"/>
+                <Label x:Name="label_Copy5" Content="Iteration"  Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                <TextBox TextChanged="textBox_closingSize_TextChanged" x:Name="textBox_ouv_size" HorizontalAlignment="Center" VerticalAlignment="Top" Height="25" Grid.Row="1" TextWrapping="Wrap" Text="5" Width="55" Grid.Column="1"/>
+                <TextBox TextChanged="textBox_openningSize_TextChanged" x:Name="textBox_erosion_size" HorizontalAlignment="Center" Height="25"  Grid.Row="5" TextWrapping="Wrap" Text="5" VerticalAlignment="Top" Width="55" Grid.Column="1"/>
+                <TextBox TextChanged="textBox_closingIteration_TextChanged" x:Name="textBox_ouv_iteration" HorizontalAlignment="Center" VerticalAlignment="Top" Height="25" Grid.Row="1" TextWrapping="Wrap" Text="3" Width="55" Grid.Column="2"/>
+                <TextBox TextChanged="textBox_openningIteration_TextChanged" x:Name="textBox_erosion_iteration" HorizontalAlignment="Center" Height="25"  Grid.Row="5" TextWrapping="Wrap" Text="3" VerticalAlignment="Top" Width="55" Grid.Column="2"/>
+                <Button x:Name="button_ouverture" Content="Process" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0" Grid.Row="1" Width="55" Click="button_closing_Click"  RenderTransformOrigin="0.531,0.667" Grid.Column="3"/>
+                <Button x:Name="button_erosion" Content="Process" HorizontalAlignment="Center" Margin="0,0,0,0" Grid.Row="2" VerticalAlignment="Top" Width="55" Click="button_openning_Click" RenderTransformOrigin="0.531,0.667" Grid.Column="3"/>
+            </Grid>
+        </GroupBox>
+
+        <GroupBox x:Name="groupBox_Copy1" Grid.Column="3" Header="Background segmentation" HorizontalAlignment="Center" Margin="20,0,0,10" Width="283" Grid.Row="3" Background="#CCFFFFFF">
+
+            <GroupBox.HeaderTemplate>
+                <DataTemplate>
+                    <Grid Width="{Binding ElementName=groupBox_Copy, Path=ActualWidth}" Margin="-10, 0, -10, 0" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+                        <Label Content="{Binding}" HorizontalAlignment="Stretch" Background="#25A0DA" Grid.Column="0" Height="20" Padding="5, 0, 0, 0" Margin="10" Foreground="White"/>
+                    </Grid>
+                </DataTemplate>
+            </GroupBox.HeaderTemplate>
+            <Grid Margin="0,0,-2,-2">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Button x:Name="button_background" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center" Content="Load background"   Click="button_background_Click" RenderTransformOrigin="0.531,0.667" Height="26" />
+                <Button x:Name="button_ok_background" Content="Process" HorizontalAlignment="Center" VerticalAlignment="Center"  Width="60" Click="button_ok_background_Click" RenderTransformOrigin="0.531,0.667" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2"/>
+                <TextBox x:Name="textBox_background" Height="25" Text="Path" VerticalAlignment="Center" HorizontalAlignment="Stretch" Grid.Row="0" IsReadOnly="True" Background="#FFFAFAFA" Foreground="#FF5A5A5A" Grid.Column="1"  Margin="0,0,10,0"/>
+                <Label x:Name="label_Threshold" Content="Threshold"  VerticalAlignment="Center"  Grid.Row="1" HorizontalAlignment="Center" />
+                <TextBox TextChanged="textBox_threshold_TextChanged" x:Name="textBox_threshold" HorizontalAlignment="Center" VerticalAlignment="Center" Height="25" Grid.Row="1" TextWrapping="Wrap" Text="10" Width="55" Grid.Column="1"/>
+            </Grid>
+        </GroupBox>
+        <Button x:Name="UNDO" Content="Cancel" Grid.Column="1" Margin="0,10,10,0" Grid.Row="6" VerticalAlignment="Top" HorizontalAlignment="Right" Width="76" Click="UNDO_Click"/>
+        <Button x:Name="buttonAlgo" Content="Display thresholded image" HorizontalAlignment="Left" Margin="10,10,0,0"  PreviewMouseDown="buttonAlgo_MouseDown" PreviewMouseUp="buttonAlgo_PreviewMouseUp" Grid.Row="6" Grid.ColumnSpan="2" Height="25" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

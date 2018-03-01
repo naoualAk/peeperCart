@@ -1,0 +1,26 @@
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\obj\Release\Pepper Software.csprojResolveAssemblyReference.cache
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\obj\Release\Vue\GestionCamera.g.cs
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\obj\Release\Vue\MachineController.g.cs
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\obj\Release\Vue\MainWindow.g.cs
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\obj\Release\Vue\App.g.cs
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\obj\Release\Pepper Software_MarkupCompile.cache
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\obj\Release\Pepper Software_MarkupCompile.lref
+F:\PepperCart\Pepper Software\bin\Release\Pepper Software.exe.config
+F:\PepperCart\Pepper Software\obj\Release\Pepper Software.csprojResolveAssemblyReference.cache
+F:\PepperCart\Pepper Software\obj\Release\Vue\GestionCamera.g.cs
+F:\PepperCart\Pepper Software\obj\Release\Vue\MachineController.g.cs
+F:\PepperCart\Pepper Software\obj\Release\Vue\MainWindow.g.cs
+F:\PepperCart\Pepper Software\obj\Release\Vue\App.g.cs
+F:\PepperCart\Pepper Software\obj\Release\GeneratedInternalTypeHelper.g.cs
+F:\PepperCart\Pepper Software\obj\Release\Pepper Software_MarkupCompile.cache
+F:\PepperCart\Pepper Software\obj\Release\Pepper Software_MarkupCompile.lref
+E:\PepperCart\Pepper Software\bin\Release\Pepper Software.exe.config
+E:\PepperCart\Pepper Software\obj\Release\Pepper Software.csprojResolveAssemblyReference.cache
+E:\PepperCart\Pepper Software\obj\Release\Vue\GestionCamera.g.cs
+E:\PepperCart\Pepper Software\obj\Release\Vue\MachineController.g.cs
+E:\PepperCart\Pepper Software\obj\Release\Vue\MainWindow.g.cs
+E:\PepperCart\Pepper Software\obj\Release\Vue\App.g.cs
+E:\PepperCart\Pepper Software\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\PepperCart\Pepper Software\obj\Release\Pepper Software_MarkupCompile.cache
+E:\PepperCart\Pepper Software\obj\Release\Pepper Software_MarkupCompile.lref

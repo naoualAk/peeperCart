@@ -1,0 +1,353 @@
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\SegmenTool.exe.config
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\SegmenTool.exe
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\SegmenTool.pdb
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Emgu.CV.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Emgu.CV.ML.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Emgu.CV.OpenCL.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Emgu.CV.Stitching.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Emgu.CV.UI.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Emgu.CV.VideoStab.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Emgu.Util.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Microsoft.CSharp.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\PresentationCore.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\System.Drawing.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\System.Net.Http.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\System.Windows.Forms.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\System.Xaml.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\System.Xml.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\System.Xml.Linq.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\VisartLib.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\ZedGraph.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Accord.Imaging.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Accord.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Accord.Statistics.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Accord.Math.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Accord.Math.Core.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Emgu.CV.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Emgu.CV.ML.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Emgu.CV.OpenCL.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Emgu.CV.UI.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Emgu.Util.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\VisartLib.pdb
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\VisartLib.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Accord.Imaging.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Accord.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Accord.Statistics.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Accord.Math.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\bin\Debug\Accord.Math.Core.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\obj\Debug\SegmenTool.csprojResolveAssemblyReference.cache
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\obj\Debug\Vue\MainWindow.g.cs
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\obj\Debug\Vue\App.g.cs
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\obj\Debug\SegmenTool_MarkupCompile.cache
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\obj\Debug\SegmenTool_MarkupCompile.lref
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\obj\Debug\Vue\MainWindow.baml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\obj\Debug\SegmenTool.g.resources
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\obj\Debug\SegmenTool.Properties.Resources.resources
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\obj\Debug\SegmenTool.csproj.GenerateResource.Cache
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\obj\Debug\SegmenTool.exe
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\SegmenTool\obj\Debug\SegmenTool.pdb
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\SegmenTool\bin\Debug\SegmenTool.exe.config
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\SegmenTool\bin\Debug\SegmenTool.exe
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\SegmenTool\bin\Debug\SegmenTool.pdb
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\SegmenTool\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\SegmenTool\bin\Debug\PresentationCore.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\SegmenTool\bin\Debug\System.Drawing.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\SegmenTool\bin\Debug\System.Net.Http.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\SegmenTool\bin\Debug\System.Windows.Forms.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\SegmenTool\bin\Debug\System.Xaml.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\SegmenTool\bin\Debug\System.Xml.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\SegmenTool\bin\Debug\System.Xml.Linq.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\SegmenTool\bin\Debug\ZedGraph.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\SegmenTool\bin\Debug\ZedGraph.xml
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\SegmenTool\obj\Debug\Vue\MainWindow.g.cs
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\SegmenTool\obj\Debug\Vue\App.g.cs
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\SegmenTool\obj\Debug\SegmenTool_MarkupCompile.cache
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\SegmenTool\obj\Debug\SegmenTool_MarkupCompile.lref
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\SegmenTool\obj\Debug\Vue\MainWindow.baml
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\SegmenTool\obj\Debug\SegmenTool.g.resources
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\SegmenTool\obj\Debug\SegmenTool.Properties.Resources.resources
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\SegmenTool\obj\Debug\SegmenTool.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\SegmenTool\obj\Debug\SegmenTool.exe
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\SegmenTool\obj\Debug\SegmenTool.pdb
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Accord.dll.config
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Resources\teinte.png
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Resources\teinte2.png
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\SegmenTool.exe.config
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\SegmenTool.exe
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\SegmenTool.pdb
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Emgu.CV.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Emgu.CV.GPU.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Emgu.CV.ML.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Emgu.CV.OCR.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Emgu.CV.OpenCL.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Emgu.CV.Stitching.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Emgu.CV.UI.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Emgu.CV.VideoStab.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Emgu.Util.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Microsoft.CSharp.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\PresentationCore.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Segmentation Creator.exe
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\System.Drawing.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\System.Net.Http.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\System.Windows.Forms.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\System.Xaml.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\System.Xml.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\System.Xml.Linq.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\ZedGraph.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Accord.MachineLearning.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Accord.Math.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Accord.Imaging.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Accord.Math.Core.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Accord.Statistics.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Accord.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Segmentation Creator.pdb
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Emgu.CV.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Emgu.CV.GPU.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Emgu.CV.ML.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Emgu.CV.OCR.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Emgu.CV.OpenCL.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Emgu.CV.Stitching.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Emgu.CV.UI.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Emgu.CV.VideoStab.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Emgu.Util.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\ZedGraph.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Accord.MachineLearning.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Accord.Math.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Accord.Imaging.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Accord.Math.Core.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Accord.Statistics.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\bin\Debug\Accord.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\obj\Debug\SegmenTool.csprojResolveAssemblyReference.cache
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\obj\Debug\Vue\MainWindow.g.cs
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\obj\Debug\Vue\App.g.cs
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\obj\Debug\SegmenTool_MarkupCompile.cache
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\obj\Debug\SegmenTool_MarkupCompile.lref
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\obj\Debug\Vue\MainWindow.baml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\obj\Debug\SegmenTool.g.resources
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\obj\Debug\SegmenTool.Properties.Resources.resources
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\obj\Debug\SegmenTool.csproj.GenerateResource.Cache
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\obj\Debug\SegmenTool.exe
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\SegmenTool\obj\Debug\SegmenTool.pdb
+F:\PepperCart\SegmenTool\bin\Debug\Accord.dll.config
+F:\PepperCart\SegmenTool\bin\Debug\Resources\teinte.png
+F:\PepperCart\SegmenTool\bin\Debug\Resources\teinte2.png
+F:\PepperCart\SegmenTool\bin\Debug\SegmenTool.exe.config
+F:\PepperCart\SegmenTool\bin\Debug\SegmenTool.exe
+F:\PepperCart\SegmenTool\bin\Debug\SegmenTool.pdb
+F:\PepperCart\SegmenTool\bin\Debug\Microsoft.CSharp.dll
+F:\PepperCart\SegmenTool\bin\Debug\PresentationCore.dll
+F:\PepperCart\SegmenTool\bin\Debug\Segmentation Creator.exe
+F:\PepperCart\SegmenTool\bin\Debug\System.Drawing.dll
+F:\PepperCart\SegmenTool\bin\Debug\System.Net.Http.dll
+F:\PepperCart\SegmenTool\bin\Debug\System.Windows.Forms.dll
+F:\PepperCart\SegmenTool\bin\Debug\System.Xaml.dll
+F:\PepperCart\SegmenTool\bin\Debug\System.Xml.dll
+F:\PepperCart\SegmenTool\bin\Debug\System.Xml.Linq.dll
+F:\PepperCart\SegmenTool\bin\Debug\Accord.MachineLearning.dll
+F:\PepperCart\SegmenTool\bin\Debug\Accord.Math.dll
+F:\PepperCart\SegmenTool\bin\Debug\Accord.Imaging.dll
+F:\PepperCart\SegmenTool\bin\Debug\Accord.Math.Core.dll
+F:\PepperCart\SegmenTool\bin\Debug\Accord.Statistics.dll
+F:\PepperCart\SegmenTool\bin\Debug\Accord.dll
+F:\PepperCart\SegmenTool\bin\Debug\Segmentation Creator.pdb
+F:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.xml
+F:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.GPU.xml
+F:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.ML.xml
+F:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.OCR.xml
+F:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.OpenCL.xml
+F:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.Stitching.xml
+F:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.UI.xml
+F:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.VideoStab.xml
+F:\PepperCart\SegmenTool\bin\Debug\Emgu.Util.xml
+F:\PepperCart\SegmenTool\bin\Debug\ZedGraph.xml
+F:\PepperCart\SegmenTool\bin\Debug\Accord.MachineLearning.xml
+F:\PepperCart\SegmenTool\bin\Debug\Accord.Math.xml
+F:\PepperCart\SegmenTool\bin\Debug\Accord.Imaging.xml
+F:\PepperCart\SegmenTool\bin\Debug\Accord.Math.Core.xml
+F:\PepperCart\SegmenTool\bin\Debug\Accord.Statistics.xml
+F:\PepperCart\SegmenTool\bin\Debug\Accord.xml
+F:\PepperCart\SegmenTool\obj\Debug\SegmenTool.csprojResolveAssemblyReference.cache
+F:\PepperCart\SegmenTool\obj\Debug\Vue\MainWindow.g.cs
+F:\PepperCart\SegmenTool\obj\Debug\Vue\App.g.cs
+F:\PepperCart\SegmenTool\obj\Debug\SegmenTool_MarkupCompile.cache
+F:\PepperCart\SegmenTool\obj\Debug\SegmenTool_MarkupCompile.lref
+F:\PepperCart\SegmenTool\obj\Debug\Vue\MainWindow.baml
+F:\PepperCart\SegmenTool\obj\Debug\SegmenTool.g.resources
+F:\PepperCart\SegmenTool\obj\Debug\SegmenTool.Properties.Resources.resources
+F:\PepperCart\SegmenTool\obj\Debug\SegmenTool.csproj.GenerateResource.Cache
+F:\PepperCart\SegmenTool\obj\Debug\SegmenTool.exe
+F:\PepperCart\SegmenTool\obj\Debug\SegmenTool.pdb
+G:\PepperCart\SegmenTool\bin\Debug\Accord.dll.config
+G:\PepperCart\SegmenTool\bin\Debug\Resources\teinte.png
+G:\PepperCart\SegmenTool\bin\Debug\Resources\teinte2.png
+G:\PepperCart\SegmenTool\bin\Debug\SegmenTool.exe.config
+G:\PepperCart\SegmenTool\bin\Debug\SegmenTool.exe
+G:\PepperCart\SegmenTool\bin\Debug\SegmenTool.pdb
+G:\PepperCart\SegmenTool\bin\Debug\Microsoft.CSharp.dll
+G:\PepperCart\SegmenTool\bin\Debug\PresentationCore.dll
+G:\PepperCart\SegmenTool\bin\Debug\Segmentation Creator.exe
+G:\PepperCart\SegmenTool\bin\Debug\System.Drawing.dll
+G:\PepperCart\SegmenTool\bin\Debug\System.Net.Http.dll
+G:\PepperCart\SegmenTool\bin\Debug\System.Windows.Forms.dll
+G:\PepperCart\SegmenTool\bin\Debug\System.Xaml.dll
+G:\PepperCart\SegmenTool\bin\Debug\System.Xml.dll
+G:\PepperCart\SegmenTool\bin\Debug\System.Xml.Linq.dll
+G:\PepperCart\SegmenTool\bin\Debug\Accord.MachineLearning.dll
+G:\PepperCart\SegmenTool\bin\Debug\Accord.Math.dll
+G:\PepperCart\SegmenTool\bin\Debug\Accord.Imaging.dll
+G:\PepperCart\SegmenTool\bin\Debug\Accord.Math.Core.dll
+G:\PepperCart\SegmenTool\bin\Debug\Accord.Statistics.dll
+G:\PepperCart\SegmenTool\bin\Debug\Accord.dll
+G:\PepperCart\SegmenTool\bin\Debug\Segmentation Creator.pdb
+G:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.xml
+G:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.GPU.xml
+G:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.ML.xml
+G:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.OCR.xml
+G:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.OpenCL.xml
+G:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.Stitching.xml
+G:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.UI.xml
+G:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.VideoStab.xml
+G:\PepperCart\SegmenTool\bin\Debug\Emgu.Util.xml
+G:\PepperCart\SegmenTool\bin\Debug\ZedGraph.xml
+G:\PepperCart\SegmenTool\bin\Debug\Accord.MachineLearning.xml
+G:\PepperCart\SegmenTool\bin\Debug\Accord.Math.xml
+G:\PepperCart\SegmenTool\bin\Debug\Accord.Imaging.xml
+G:\PepperCart\SegmenTool\bin\Debug\Accord.Math.Core.xml
+G:\PepperCart\SegmenTool\bin\Debug\Accord.Statistics.xml
+G:\PepperCart\SegmenTool\bin\Debug\Accord.xml
+G:\PepperCart\SegmenTool\obj\Debug\SegmenTool.csprojResolveAssemblyReference.cache
+G:\PepperCart\SegmenTool\obj\Debug\Vue\MainWindow.g.cs
+G:\PepperCart\SegmenTool\obj\Debug\Vue\App.g.cs
+G:\PepperCart\SegmenTool\obj\Debug\SegmenTool_MarkupCompile.cache
+G:\PepperCart\SegmenTool\obj\Debug\SegmenTool_MarkupCompile.lref
+G:\PepperCart\SegmenTool\obj\Debug\Vue\MainWindow.baml
+G:\PepperCart\SegmenTool\obj\Debug\SegmenTool.g.resources
+G:\PepperCart\SegmenTool\obj\Debug\SegmenTool.Properties.Resources.resources
+G:\PepperCart\SegmenTool\obj\Debug\SegmenTool.csproj.GenerateResource.Cache
+G:\PepperCart\SegmenTool\obj\Debug\SegmenTool.exe
+G:\PepperCart\SegmenTool\obj\Debug\SegmenTool.pdb
+J:\PepperCart\SegmenTool\bin\Debug\Accord.dll.config
+J:\PepperCart\SegmenTool\bin\Debug\Resources\teinte.png
+J:\PepperCart\SegmenTool\bin\Debug\Resources\teinte2.png
+J:\PepperCart\SegmenTool\bin\Debug\SegmenTool.exe.config
+J:\PepperCart\SegmenTool\bin\Debug\SegmenTool.exe
+J:\PepperCart\SegmenTool\bin\Debug\SegmenTool.pdb
+J:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.dll
+J:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.GPU.dll
+J:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.ML.dll
+J:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.OCR.dll
+J:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.OpenCL.dll
+J:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.Stitching.dll
+J:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.UI.dll
+J:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.VideoStab.dll
+J:\PepperCart\SegmenTool\bin\Debug\Emgu.Util.dll
+J:\PepperCart\SegmenTool\bin\Debug\Microsoft.CSharp.dll
+J:\PepperCart\SegmenTool\bin\Debug\PresentationCore.dll
+J:\PepperCart\SegmenTool\bin\Debug\Segmentation Creator.exe
+J:\PepperCart\SegmenTool\bin\Debug\System.Drawing.dll
+J:\PepperCart\SegmenTool\bin\Debug\System.Net.Http.dll
+J:\PepperCart\SegmenTool\bin\Debug\System.Windows.Forms.dll
+J:\PepperCart\SegmenTool\bin\Debug\System.Xaml.dll
+J:\PepperCart\SegmenTool\bin\Debug\System.Xml.dll
+J:\PepperCart\SegmenTool\bin\Debug\System.Xml.Linq.dll
+J:\PepperCart\SegmenTool\bin\Debug\ZedGraph.dll
+J:\PepperCart\SegmenTool\bin\Debug\Accord.MachineLearning.dll
+J:\PepperCart\SegmenTool\bin\Debug\Accord.Math.dll
+J:\PepperCart\SegmenTool\bin\Debug\Accord.Imaging.dll
+J:\PepperCart\SegmenTool\bin\Debug\Accord.Math.Core.dll
+J:\PepperCart\SegmenTool\bin\Debug\Accord.Statistics.dll
+J:\PepperCart\SegmenTool\bin\Debug\Accord.dll
+J:\PepperCart\SegmenTool\bin\Debug\Segmentation Creator.pdb
+J:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.xml
+J:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.GPU.xml
+J:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.ML.xml
+J:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.OCR.xml
+J:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.OpenCL.xml
+J:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.Stitching.xml
+J:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.UI.xml
+J:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.VideoStab.xml
+J:\PepperCart\SegmenTool\bin\Debug\Emgu.Util.xml
+J:\PepperCart\SegmenTool\bin\Debug\ZedGraph.xml
+J:\PepperCart\SegmenTool\bin\Debug\Accord.MachineLearning.xml
+J:\PepperCart\SegmenTool\bin\Debug\Accord.Math.xml
+J:\PepperCart\SegmenTool\bin\Debug\Accord.Imaging.xml
+J:\PepperCart\SegmenTool\bin\Debug\Accord.Math.Core.xml
+J:\PepperCart\SegmenTool\bin\Debug\Accord.Statistics.xml
+J:\PepperCart\SegmenTool\bin\Debug\Accord.xml
+J:\PepperCart\SegmenTool\obj\Debug\SegmenTool.csprojResolveAssemblyReference.cache
+J:\PepperCart\SegmenTool\obj\Debug\Vue\MainWindow.g.cs
+J:\PepperCart\SegmenTool\obj\Debug\Vue\App.g.cs
+J:\PepperCart\SegmenTool\obj\Debug\SegmenTool_MarkupCompile.cache
+J:\PepperCart\SegmenTool\obj\Debug\SegmenTool_MarkupCompile.lref
+J:\PepperCart\SegmenTool\obj\Debug\Vue\MainWindow.baml
+J:\PepperCart\SegmenTool\obj\Debug\SegmenTool.g.resources
+J:\PepperCart\SegmenTool\obj\Debug\SegmenTool.Properties.Resources.resources
+J:\PepperCart\SegmenTool\obj\Debug\SegmenTool.csproj.GenerateResource.Cache
+J:\PepperCart\SegmenTool\obj\Debug\SegmenTool.exe
+J:\PepperCart\SegmenTool\obj\Debug\SegmenTool.pdb
+E:\PepperCart\SegmenTool\bin\Debug\Accord.dll.config
+E:\PepperCart\SegmenTool\bin\Debug\Resources\teinte.png
+E:\PepperCart\SegmenTool\bin\Debug\Resources\teinte2.png
+E:\PepperCart\SegmenTool\bin\Debug\SegmenTool.exe.config
+E:\PepperCart\SegmenTool\bin\Debug\SegmenTool.exe
+E:\PepperCart\SegmenTool\bin\Debug\SegmenTool.pdb
+E:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.dll
+E:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.GPU.dll
+E:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.ML.dll
+E:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.OCR.dll
+E:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.OpenCL.dll
+E:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.Stitching.dll
+E:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.UI.dll
+E:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.VideoStab.dll
+E:\PepperCart\SegmenTool\bin\Debug\Emgu.Util.dll
+E:\PepperCart\SegmenTool\bin\Debug\Microsoft.CSharp.dll
+E:\PepperCart\SegmenTool\bin\Debug\PresentationCore.dll
+E:\PepperCart\SegmenTool\bin\Debug\Segmentation Creator.exe
+E:\PepperCart\SegmenTool\bin\Debug\System.Drawing.dll
+E:\PepperCart\SegmenTool\bin\Debug\System.Net.Http.dll
+E:\PepperCart\SegmenTool\bin\Debug\System.Windows.Forms.dll
+E:\PepperCart\SegmenTool\bin\Debug\System.Xaml.dll
+E:\PepperCart\SegmenTool\bin\Debug\System.Xml.dll
+E:\PepperCart\SegmenTool\bin\Debug\System.Xml.Linq.dll
+E:\PepperCart\SegmenTool\bin\Debug\Accord.MachineLearning.dll
+E:\PepperCart\SegmenTool\bin\Debug\Accord.Math.dll
+E:\PepperCart\SegmenTool\bin\Debug\Accord.Imaging.dll
+E:\PepperCart\SegmenTool\bin\Debug\Accord.Math.Core.dll
+E:\PepperCart\SegmenTool\bin\Debug\Accord.Statistics.dll
+E:\PepperCart\SegmenTool\bin\Debug\Accord.dll
+E:\PepperCart\SegmenTool\bin\Debug\Segmentation Creator.pdb
+E:\PepperCart\SegmenTool\bin\Debug\Segmentation Creator.exe.config
+E:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.xml
+E:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.GPU.xml
+E:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.ML.xml
+E:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.OCR.xml
+E:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.OpenCL.xml
+E:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.Stitching.xml
+E:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.UI.xml
+E:\PepperCart\SegmenTool\bin\Debug\Emgu.CV.VideoStab.xml
+E:\PepperCart\SegmenTool\bin\Debug\Emgu.Util.xml
+E:\PepperCart\SegmenTool\bin\Debug\Accord.MachineLearning.xml
+E:\PepperCart\SegmenTool\bin\Debug\Accord.Math.xml
+E:\PepperCart\SegmenTool\bin\Debug\Accord.Imaging.xml
+E:\PepperCart\SegmenTool\bin\Debug\Accord.Math.Core.xml
+E:\PepperCart\SegmenTool\bin\Debug\Accord.Statistics.xml
+E:\PepperCart\SegmenTool\bin\Debug\Accord.xml
+E:\PepperCart\SegmenTool\obj\Debug\SegmenTool.csprojResolveAssemblyReference.cache
+E:\PepperCart\SegmenTool\obj\Debug\Vue\MainWindow.g.cs
+E:\PepperCart\SegmenTool\obj\Debug\Vue\App.g.cs
+E:\PepperCart\SegmenTool\obj\Debug\SegmenTool_MarkupCompile.cache
+E:\PepperCart\SegmenTool\obj\Debug\SegmenTool_MarkupCompile.lref
+E:\PepperCart\SegmenTool\obj\Debug\Vue\MainWindow.baml
+E:\PepperCart\SegmenTool\obj\Debug\SegmenTool.g.resources
+E:\PepperCart\SegmenTool\obj\Debug\SegmenTool.Properties.Resources.resources
+E:\PepperCart\SegmenTool\obj\Debug\SegmenTool.csproj.GenerateResource.Cache
+E:\PepperCart\SegmenTool\obj\Debug\SegmenTool.csproj.CoreCompileInputs.cache
+E:\PepperCart\SegmenTool\obj\Debug\SegmenTool.exe
+E:\PepperCart\SegmenTool\obj\Debug\SegmenTool.pdb
+E:\PepperCart\SegmenTool\bin\Debug\ZedGraph.xml

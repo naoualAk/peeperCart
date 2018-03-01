@@ -1,0 +1,44 @@
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\Pea Analyzer.exe.config
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\Accord.dll.config
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\Vue\ColorToBrushConverter.cs
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\Pea Analyzer.exe
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\Pea Analyzer.pdb
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\Emgu.CV.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\Emgu.CV.GPU.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\Emgu.CV.ML.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\Emgu.CV.OpenCL.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\Emgu.CV.UI.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\Emgu.Util.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\VisartLib.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\ZedGraph.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\Accord.Imaging.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\Accord.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\Accord.Statistics.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\Accord.Math.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\Accord.Math.Core.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\VisartLib.pdb
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\VisartLib.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\Emgu.CV.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\Emgu.CV.GPU.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\Emgu.CV.ML.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\Emgu.CV.OpenCL.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\Emgu.CV.UI.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\Emgu.Util.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\Accord.Imaging.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\Accord.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\Accord.Statistics.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\Accord.Math.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\bin\Release\Accord.Math.Core.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\obj\Release\Pea Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\obj\Release\Vue\MainWindow.g.cs
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\obj\Release\Vue\App.g.cs
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\obj\Release\Pea Analyzer_MarkupCompile.cache
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\obj\Release\Pea Analyzer_MarkupCompile.lref
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\obj\Release\Vue\App.baml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\obj\Release\Vue\MainWindow.baml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\obj\Release\Pea Analyzer.g.resources
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\obj\Release\Pea_Analyzer.Properties.Resources.resources
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\obj\Release\Pea Analyzer.csproj.GenerateResource.Cache
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\obj\Release\Pea Analyzer.exe
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pea Analyzer\obj\Release\Pea Analyzer.pdb

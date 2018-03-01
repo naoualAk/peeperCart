@@ -1,0 +1,264 @@
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Accord.dll.config
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Resources\teinte.png
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Resources\teinte2.png
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Vue\ColorToBrushConverter.cs
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Pepper Software.exe.config
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Pepper Software.exe
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Pepper Software.pdb
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\AsynchronousGrabForms.exe
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Emgu.CV.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Emgu.CV.ML.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Emgu.CV.OpenCL.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Emgu.CV.UI.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Emgu.Util.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Segmentation Creator.exe
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\SegmenTool.exe
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\VimbaNET.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\VisartLib.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\ZedGraph.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Accord.MachineLearning.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Accord.Math.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Accord.Imaging.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Accord.Math.Core.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Accord.Statistics.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Accord.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\AsynchronousGrabForms.pdb
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Segmentation Creator.pdb
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\SegmenTool.pdb
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Emgu.CV.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Emgu.CV.ML.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Emgu.CV.OpenCL.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Emgu.CV.UI.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Emgu.Util.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\VimbaNET.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\VisartLib.pdb
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\VisartLib.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Accord.MachineLearning.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Accord.Math.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Accord.Imaging.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Accord.Math.Core.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Accord.Statistics.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\bin\Debug\Accord.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\obj\Debug\Pepper Software.csprojResolveAssemblyReference.cache
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\obj\Debug\Vue\GestionCamera.g.cs
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\obj\Debug\Vue\MachineController.g.cs
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\obj\Debug\Vue\MainWindow.g.cs
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\obj\Debug\Vue\App.g.cs
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\obj\Debug\Pepper Software_MarkupCompile.cache
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\obj\Debug\Pepper Software_MarkupCompile.lref
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\obj\Debug\Vue\App.baml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\obj\Debug\Vue\GestionCamera.baml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\obj\Debug\Vue\MachineController.baml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\obj\Debug\Vue\MainWindow.baml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\obj\Debug\Vue\Style.baml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\obj\Debug\Pepper Software.g.resources
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\obj\Debug\pepperSoft.Properties.Resources.resources
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\obj\Debug\Pepper Software.csproj.GenerateResource.Cache
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\obj\Debug\Pepper Software.exe
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\obj\Debug\Pepper Software.pdb
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\obj\Debug\Vue\LoadingAcquisition.g.cs
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Pepper Software\obj\Debug\Vue\LoadingAcquisition.baml
+F:\PepperCart\Pepper Software\bin\Debug\Pepper Software.exe.config
+F:\PepperCart\Pepper Software\obj\Debug\Pepper Software.exe
+F:\PepperCart\Pepper Software\obj\Debug\Pepper Software.pdb
+F:\PepperCart\Pepper Software\bin\Debug\Accord.dll.config
+F:\PepperCart\Pepper Software\bin\Debug\Resources\teinte.png
+F:\PepperCart\Pepper Software\bin\Debug\Resources\teinte2.png
+F:\PepperCart\Pepper Software\bin\Debug\Vue\ColorToBrushConverter.cs
+F:\PepperCart\Pepper Software\bin\Debug\Pepper Software.exe
+F:\PepperCart\Pepper Software\bin\Debug\Pepper Software.pdb
+F:\PepperCart\Pepper Software\bin\Debug\Segmentation Creator.exe
+F:\PepperCart\Pepper Software\bin\Debug\SegmenTool.exe
+F:\PepperCart\Pepper Software\bin\Debug\Accord.MachineLearning.dll
+F:\PepperCart\Pepper Software\bin\Debug\Accord.Math.dll
+F:\PepperCart\Pepper Software\bin\Debug\Accord.Imaging.dll
+F:\PepperCart\Pepper Software\bin\Debug\Accord.Math.Core.dll
+F:\PepperCart\Pepper Software\bin\Debug\Accord.Statistics.dll
+F:\PepperCart\Pepper Software\bin\Debug\Accord.dll
+F:\PepperCart\Pepper Software\bin\Debug\Segmentation Creator.pdb
+F:\PepperCart\Pepper Software\bin\Debug\SegmenTool.pdb
+F:\PepperCart\Pepper Software\bin\Debug\AsynchronousGrabForms.pdb
+F:\PepperCart\Pepper Software\bin\Debug\Emgu.CV.xml
+F:\PepperCart\Pepper Software\bin\Debug\Emgu.CV.GPU.xml
+F:\PepperCart\Pepper Software\bin\Debug\Emgu.CV.ML.xml
+F:\PepperCart\Pepper Software\bin\Debug\Emgu.CV.OpenCL.xml
+F:\PepperCart\Pepper Software\bin\Debug\Emgu.CV.UI.xml
+F:\PepperCart\Pepper Software\bin\Debug\Emgu.Util.xml
+F:\PepperCart\Pepper Software\bin\Debug\VimbaNET.xml
+F:\PepperCart\Pepper Software\bin\Debug\VisartLib.pdb
+F:\PepperCart\Pepper Software\bin\Debug\VisartLib.xml
+F:\PepperCart\Pepper Software\bin\Debug\Accord.MachineLearning.xml
+F:\PepperCart\Pepper Software\bin\Debug\Accord.Math.xml
+F:\PepperCart\Pepper Software\bin\Debug\Accord.Imaging.xml
+F:\PepperCart\Pepper Software\bin\Debug\Accord.Math.Core.xml
+F:\PepperCart\Pepper Software\bin\Debug\Accord.Statistics.xml
+F:\PepperCart\Pepper Software\bin\Debug\Accord.xml
+F:\PepperCart\Pepper Software\obj\Debug\Pepper Software.csprojResolveAssemblyReference.cache
+F:\PepperCart\Pepper Software\obj\Debug\Vue\GestionCamera.g.cs
+F:\PepperCart\Pepper Software\obj\Debug\Vue\MachineController.g.cs
+F:\PepperCart\Pepper Software\obj\Debug\Vue\MainWindow.g.cs
+F:\PepperCart\Pepper Software\obj\Debug\Vue\App.g.cs
+F:\PepperCart\Pepper Software\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\PepperCart\Pepper Software\obj\Debug\Pepper Software_MarkupCompile.cache
+F:\PepperCart\Pepper Software\obj\Debug\Pepper Software_MarkupCompile.lref
+F:\PepperCart\Pepper Software\obj\Debug\Vue\App.baml
+F:\PepperCart\Pepper Software\obj\Debug\Vue\GestionCamera.baml
+F:\PepperCart\Pepper Software\obj\Debug\Vue\MachineController.baml
+F:\PepperCart\Pepper Software\obj\Debug\Vue\MainWindow.baml
+F:\PepperCart\Pepper Software\obj\Debug\Vue\Style.baml
+F:\PepperCart\Pepper Software\obj\Debug\Pepper Software.g.resources
+F:\PepperCart\Pepper Software\obj\Debug\pepperSoft.Properties.Resources.resources
+F:\PepperCart\Pepper Software\obj\Debug\Pepper Software.csproj.GenerateResource.Cache
+G:\PepperCart\Pepper Software\bin\Debug\Pepper Software.exe.config
+G:\PepperCart\Pepper Software\obj\Debug\Pepper Software.exe
+G:\PepperCart\Pepper Software\obj\Debug\Pepper Software.pdb
+G:\PepperCart\Pepper Software\bin\Debug\Accord.dll.config
+G:\PepperCart\Pepper Software\bin\Debug\Resources\teinte.png
+G:\PepperCart\Pepper Software\bin\Debug\Resources\teinte2.png
+G:\PepperCart\Pepper Software\bin\Debug\Vue\ColorToBrushConverter.cs
+G:\PepperCart\Pepper Software\bin\Debug\Pepper Software.exe
+G:\PepperCart\Pepper Software\bin\Debug\Pepper Software.pdb
+G:\PepperCart\Pepper Software\bin\Debug\AsynchronousGrabForms.exe
+G:\PepperCart\Pepper Software\bin\Debug\Segmentation Creator.exe
+G:\PepperCart\Pepper Software\bin\Debug\SegmenTool.exe
+G:\PepperCart\Pepper Software\bin\Debug\Accord.MachineLearning.dll
+G:\PepperCart\Pepper Software\bin\Debug\Accord.Math.dll
+G:\PepperCart\Pepper Software\bin\Debug\Accord.Imaging.dll
+G:\PepperCart\Pepper Software\bin\Debug\Accord.Math.Core.dll
+G:\PepperCart\Pepper Software\bin\Debug\Accord.Statistics.dll
+G:\PepperCart\Pepper Software\bin\Debug\Accord.dll
+G:\PepperCart\Pepper Software\bin\Debug\Segmentation Creator.pdb
+G:\PepperCart\Pepper Software\bin\Debug\SegmenTool.pdb
+G:\PepperCart\Pepper Software\bin\Debug\AsynchronousGrabForms.pdb
+G:\PepperCart\Pepper Software\bin\Debug\Emgu.CV.xml
+G:\PepperCart\Pepper Software\bin\Debug\Emgu.CV.GPU.xml
+G:\PepperCart\Pepper Software\bin\Debug\Emgu.CV.ML.xml
+G:\PepperCart\Pepper Software\bin\Debug\Emgu.CV.OpenCL.xml
+G:\PepperCart\Pepper Software\bin\Debug\Emgu.CV.UI.xml
+G:\PepperCart\Pepper Software\bin\Debug\Emgu.Util.xml
+G:\PepperCart\Pepper Software\bin\Debug\VimbaNET.xml
+G:\PepperCart\Pepper Software\bin\Debug\VisartLib.pdb
+G:\PepperCart\Pepper Software\bin\Debug\VisartLib.xml
+G:\PepperCart\Pepper Software\bin\Debug\Accord.MachineLearning.xml
+G:\PepperCart\Pepper Software\bin\Debug\Accord.Math.xml
+G:\PepperCart\Pepper Software\bin\Debug\Accord.Imaging.xml
+G:\PepperCart\Pepper Software\bin\Debug\Accord.Math.Core.xml
+G:\PepperCart\Pepper Software\bin\Debug\Accord.Statistics.xml
+G:\PepperCart\Pepper Software\bin\Debug\Accord.xml
+G:\PepperCart\Pepper Software\obj\Debug\Pepper Software.csprojResolveAssemblyReference.cache
+G:\PepperCart\Pepper Software\obj\Debug\Vue\GestionCamera.g.cs
+G:\PepperCart\Pepper Software\obj\Debug\Vue\MachineController.g.cs
+G:\PepperCart\Pepper Software\obj\Debug\Vue\MainWindow.g.cs
+G:\PepperCart\Pepper Software\obj\Debug\Vue\App.g.cs
+G:\PepperCart\Pepper Software\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\PepperCart\Pepper Software\obj\Debug\Pepper Software_MarkupCompile.cache
+G:\PepperCart\Pepper Software\obj\Debug\Pepper Software_MarkupCompile.lref
+G:\PepperCart\Pepper Software\obj\Debug\Vue\App.baml
+G:\PepperCart\Pepper Software\obj\Debug\Vue\GestionCamera.baml
+G:\PepperCart\Pepper Software\obj\Debug\Vue\MachineController.baml
+G:\PepperCart\Pepper Software\obj\Debug\Vue\MainWindow.baml
+G:\PepperCart\Pepper Software\obj\Debug\Vue\Style.baml
+G:\PepperCart\Pepper Software\obj\Debug\Pepper Software.g.resources
+G:\PepperCart\Pepper Software\obj\Debug\pepperSoft.Properties.Resources.resources
+G:\PepperCart\Pepper Software\obj\Debug\Pepper Software.csproj.GenerateResource.Cache
+G:\PepperCart\Pepper Software\bin\Debug\VimbaNET.dll
+J:\PepperCart\Pepper Software\bin\Debug\Pepper Software.exe.config
+J:\PepperCart\Pepper Software\obj\Debug\Pepper Software.exe
+J:\PepperCart\Pepper Software\obj\Debug\Pepper Software.pdb
+J:\PepperCart\Pepper Software\bin\Debug\Accord.dll.config
+J:\PepperCart\Pepper Software\bin\Debug\Resources\teinte.png
+J:\PepperCart\Pepper Software\bin\Debug\Resources\teinte2.png
+J:\PepperCart\Pepper Software\bin\Debug\Vue\ColorToBrushConverter.cs
+J:\PepperCart\Pepper Software\bin\Debug\Pepper Software.exe
+J:\PepperCart\Pepper Software\bin\Debug\Pepper Software.pdb
+J:\PepperCart\Pepper Software\bin\Debug\AsynchronousGrabForms.exe
+J:\PepperCart\Pepper Software\bin\Debug\Segmentation Creator.exe
+J:\PepperCart\Pepper Software\bin\Debug\SegmenTool.exe
+J:\PepperCart\Pepper Software\bin\Debug\VimbaNET.dll
+J:\PepperCart\Pepper Software\bin\Debug\ZedGraph.dll
+J:\PepperCart\Pepper Software\bin\Debug\Accord.MachineLearning.dll
+J:\PepperCart\Pepper Software\bin\Debug\Accord.Math.dll
+J:\PepperCart\Pepper Software\bin\Debug\Accord.Imaging.dll
+J:\PepperCart\Pepper Software\bin\Debug\Accord.Math.Core.dll
+J:\PepperCart\Pepper Software\bin\Debug\Accord.Statistics.dll
+J:\PepperCart\Pepper Software\bin\Debug\Accord.dll
+J:\PepperCart\Pepper Software\bin\Debug\Segmentation Creator.pdb
+J:\PepperCart\Pepper Software\bin\Debug\SegmenTool.pdb
+J:\PepperCart\Pepper Software\bin\Debug\AsynchronousGrabForms.pdb
+J:\PepperCart\Pepper Software\bin\Debug\VimbaNET.xml
+J:\PepperCart\Pepper Software\bin\Debug\ZedGraph.xml
+J:\PepperCart\Pepper Software\bin\Debug\Accord.MachineLearning.xml
+J:\PepperCart\Pepper Software\bin\Debug\Accord.Math.xml
+J:\PepperCart\Pepper Software\bin\Debug\Accord.Imaging.xml
+J:\PepperCart\Pepper Software\bin\Debug\Accord.Math.Core.xml
+J:\PepperCart\Pepper Software\bin\Debug\Accord.Statistics.xml
+J:\PepperCart\Pepper Software\bin\Debug\Accord.xml
+J:\PepperCart\Pepper Software\obj\Debug\Pepper Software.csprojResolveAssemblyReference.cache
+J:\PepperCart\Pepper Software\obj\Debug\Vue\GestionCamera.g.cs
+J:\PepperCart\Pepper Software\obj\Debug\Vue\MachineController.g.cs
+J:\PepperCart\Pepper Software\obj\Debug\Vue\MainWindow.g.cs
+J:\PepperCart\Pepper Software\obj\Debug\Vue\App.g.cs
+J:\PepperCart\Pepper Software\obj\Debug\GeneratedInternalTypeHelper.g.cs
+J:\PepperCart\Pepper Software\obj\Debug\Pepper Software_MarkupCompile.cache
+J:\PepperCart\Pepper Software\obj\Debug\Pepper Software_MarkupCompile.lref
+J:\PepperCart\Pepper Software\obj\Debug\Vue\App.baml
+J:\PepperCart\Pepper Software\obj\Debug\Vue\GestionCamera.baml
+J:\PepperCart\Pepper Software\obj\Debug\Vue\MachineController.baml
+J:\PepperCart\Pepper Software\obj\Debug\Vue\MainWindow.baml
+J:\PepperCart\Pepper Software\obj\Debug\Vue\Style.baml
+J:\PepperCart\Pepper Software\obj\Debug\Pepper Software.g.resources
+J:\PepperCart\Pepper Software\obj\Debug\pepperSoft.Properties.Resources.resources
+J:\PepperCart\Pepper Software\obj\Debug\Pepper Software.csproj.GenerateResource.Cache
+E:\PepperCart\Pepper Software\bin\Debug\Accord.dll.config
+E:\PepperCart\Pepper Software\bin\Debug\Resources\teinte.png
+E:\PepperCart\Pepper Software\bin\Debug\Resources\teinte2.png
+E:\PepperCart\Pepper Software\bin\Debug\Vue\ColorToBrushConverter.cs
+E:\PepperCart\Pepper Software\bin\Debug\Pepper Software.exe.config
+E:\PepperCart\Pepper Software\bin\Debug\Pepper Software.exe
+E:\PepperCart\Pepper Software\bin\Debug\Pepper Software.pdb
+E:\PepperCart\Pepper Software\bin\Debug\AsynchronousGrabForms.exe
+E:\PepperCart\Pepper Software\bin\Debug\Segmentation Creator.exe
+E:\PepperCart\Pepper Software\bin\Debug\SegmenTool.exe
+E:\PepperCart\Pepper Software\bin\Debug\VimbaNET.dll
+E:\PepperCart\Pepper Software\bin\Debug\Accord.MachineLearning.dll
+E:\PepperCart\Pepper Software\bin\Debug\Accord.Math.dll
+E:\PepperCart\Pepper Software\bin\Debug\Accord.Imaging.dll
+E:\PepperCart\Pepper Software\bin\Debug\Accord.Math.Core.dll
+E:\PepperCart\Pepper Software\bin\Debug\Accord.Statistics.dll
+E:\PepperCart\Pepper Software\bin\Debug\Accord.dll
+E:\PepperCart\Pepper Software\bin\Debug\Segmentation Creator.pdb
+E:\PepperCart\Pepper Software\bin\Debug\Segmentation Creator.exe.config
+E:\PepperCart\Pepper Software\bin\Debug\SegmenTool.pdb
+E:\PepperCart\Pepper Software\bin\Debug\SegmenTool.exe.config
+E:\PepperCart\Pepper Software\bin\Debug\AsynchronousGrabForms.pdb
+E:\PepperCart\Pepper Software\bin\Debug\AsynchronousGrabForms.exe.config
+E:\PepperCart\Pepper Software\bin\Debug\VimbaNET.xml
+E:\PepperCart\Pepper Software\bin\Debug\Accord.MachineLearning.xml
+E:\PepperCart\Pepper Software\bin\Debug\Accord.Math.xml
+E:\PepperCart\Pepper Software\bin\Debug\Accord.Imaging.xml
+E:\PepperCart\Pepper Software\bin\Debug\Accord.Math.Core.xml
+E:\PepperCart\Pepper Software\bin\Debug\Accord.Statistics.xml
+E:\PepperCart\Pepper Software\bin\Debug\Accord.xml
+E:\PepperCart\Pepper Software\obj\Debug\Pepper Software.csprojResolveAssemblyReference.cache
+E:\PepperCart\Pepper Software\obj\Debug\Vue\GestionCamera.g.cs
+E:\PepperCart\Pepper Software\obj\Debug\Vue\MachineController.g.cs
+E:\PepperCart\Pepper Software\obj\Debug\Vue\MainWindow.g.cs
+E:\PepperCart\Pepper Software\obj\Debug\Vue\App.g.cs
+E:\PepperCart\Pepper Software\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\PepperCart\Pepper Software\obj\Debug\Pepper Software_MarkupCompile.cache
+E:\PepperCart\Pepper Software\obj\Debug\Pepper Software_MarkupCompile.lref
+E:\PepperCart\Pepper Software\obj\Debug\Vue\App.baml
+E:\PepperCart\Pepper Software\obj\Debug\Vue\GestionCamera.baml
+E:\PepperCart\Pepper Software\obj\Debug\Vue\MachineController.baml
+E:\PepperCart\Pepper Software\obj\Debug\Vue\MainWindow.baml
+E:\PepperCart\Pepper Software\obj\Debug\Vue\Style.baml
+E:\PepperCart\Pepper Software\obj\Debug\Pepper Software.g.resources
+E:\PepperCart\Pepper Software\obj\Debug\pepperSoft.Properties.Resources.resources
+E:\PepperCart\Pepper Software\obj\Debug\Pepper Software.csproj.GenerateResource.Cache
+E:\PepperCart\Pepper Software\obj\Debug\Pepper Software.csproj.CoreCompileInputs.cache
+E:\PepperCart\Pepper Software\obj\Debug\Pepper Software.exe
+E:\PepperCart\Pepper Software\obj\Debug\Pepper Software.pdb
+E:\PepperCart\Pepper Software\bin\Debug\ZedGraph.xml

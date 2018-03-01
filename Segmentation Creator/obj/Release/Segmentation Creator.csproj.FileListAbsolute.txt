@@ -1,0 +1,160 @@
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\Accord.dll.config
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\Resources\teinte.png
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\Resources\teinte2.png
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\Segmentation Creator.exe.config
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\Segmentation Creator.exe
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\Segmentation Creator.pdb
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\Accord.Controls.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\Accord.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\Accord.Imaging.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\Accord.MachineLearning.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\Accord.Math.Core.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\Accord.Math.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\Accord.Statistics.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\Emgu.CV.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\Emgu.CV.UI.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\Emgu.Util.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\System.Windows.Interactivity.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\ZedGraph.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\Accord.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\Accord.Controls.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\Accord.Imaging.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\Accord.MachineLearning.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\Accord.Math.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\Accord.Math.Core.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\Accord.Statistics.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\Emgu.CV.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\Emgu.CV.UI.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\Emgu.Util.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\ZedGraph.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\de\ZedGraph.resources.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\es\ZedGraph.resources.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\fr\ZedGraph.resources.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\hu\ZedGraph.resources.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\it\ZedGraph.resources.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\ja\ZedGraph.resources.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\pt\ZedGraph.resources.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\ru\ZedGraph.resources.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\sk\ZedGraph.resources.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\sv\ZedGraph.resources.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\tr\ZedGraph.resources.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\zh-cn\ZedGraph.resources.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Release\zh-tw\ZedGraph.resources.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\obj\Release\Segmentation Creator.csprojResolveAssemblyReference.cache
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\obj\Release\MainWindow.g.cs
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\obj\Release\App.g.cs
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\obj\Release\Segmentation Creator_Content.g.cs
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\obj\Release\Segmentation Creator_MarkupCompile.cache
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\obj\Release\Segmentation Creator_MarkupCompile.lref
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\obj\Release\MainWindow.baml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\obj\Release\Segmentation Creator.g.resources
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\obj\Release\SegmentationCreator.Properties.Resources.resources
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\obj\Release\Segmentation Creator.csproj.GenerateResource.Cache
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\obj\Release\Segmentation Creator.exe
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\obj\Release\Segmentation Creator.pdb
+E:\PepperCart\Segmentation Creator\bin\Release\Accord.dll.config
+E:\PepperCart\Segmentation Creator\bin\Release\Resources\teinte.png
+E:\PepperCart\Segmentation Creator\bin\Release\Resources\teinte2.png
+E:\PepperCart\Segmentation Creator\bin\Release\Segmentation Creator.exe.config
+E:\PepperCart\Segmentation Creator\bin\Release\Segmentation Creator.exe
+E:\PepperCart\Segmentation Creator\bin\Release\Segmentation Creator.pdb
+E:\PepperCart\Segmentation Creator\bin\Release\Accord.Controls.dll
+E:\PepperCart\Segmentation Creator\bin\Release\Accord.dll
+E:\PepperCart\Segmentation Creator\bin\Release\Accord.Imaging.dll
+E:\PepperCart\Segmentation Creator\bin\Release\Accord.MachineLearning.dll
+E:\PepperCart\Segmentation Creator\bin\Release\Accord.Math.Core.dll
+E:\PepperCart\Segmentation Creator\bin\Release\Accord.Math.dll
+E:\PepperCart\Segmentation Creator\bin\Release\Accord.Statistics.dll
+E:\PepperCart\Segmentation Creator\bin\Release\System.Windows.Interactivity.dll
+E:\PepperCart\Segmentation Creator\bin\Release\ZedGraph.dll
+E:\PepperCart\Segmentation Creator\bin\Release\Accord.xml
+E:\PepperCart\Segmentation Creator\bin\Release\Accord.Controls.xml
+E:\PepperCart\Segmentation Creator\bin\Release\Accord.Imaging.xml
+E:\PepperCart\Segmentation Creator\bin\Release\Accord.MachineLearning.xml
+E:\PepperCart\Segmentation Creator\bin\Release\Accord.Math.xml
+E:\PepperCart\Segmentation Creator\bin\Release\Accord.Math.Core.xml
+E:\PepperCart\Segmentation Creator\bin\Release\Accord.Statistics.xml
+E:\PepperCart\Segmentation Creator\bin\Release\Emgu.CV.xml
+E:\PepperCart\Segmentation Creator\bin\Release\Emgu.CV.UI.xml
+E:\PepperCart\Segmentation Creator\bin\Release\Emgu.Util.xml
+E:\PepperCart\Segmentation Creator\bin\Release\ZedGraph.xml
+E:\PepperCart\Segmentation Creator\bin\Release\de\ZedGraph.resources.dll
+E:\PepperCart\Segmentation Creator\bin\Release\es\ZedGraph.resources.dll
+E:\PepperCart\Segmentation Creator\bin\Release\fr\ZedGraph.resources.dll
+E:\PepperCart\Segmentation Creator\bin\Release\hu\ZedGraph.resources.dll
+E:\PepperCart\Segmentation Creator\bin\Release\it\ZedGraph.resources.dll
+E:\PepperCart\Segmentation Creator\bin\Release\ja\ZedGraph.resources.dll
+E:\PepperCart\Segmentation Creator\bin\Release\pt\ZedGraph.resources.dll
+E:\PepperCart\Segmentation Creator\bin\Release\ru\ZedGraph.resources.dll
+E:\PepperCart\Segmentation Creator\bin\Release\sk\ZedGraph.resources.dll
+E:\PepperCart\Segmentation Creator\bin\Release\sv\ZedGraph.resources.dll
+E:\PepperCart\Segmentation Creator\bin\Release\tr\ZedGraph.resources.dll
+E:\PepperCart\Segmentation Creator\bin\Release\zh-cn\ZedGraph.resources.dll
+E:\PepperCart\Segmentation Creator\bin\Release\zh-tw\ZedGraph.resources.dll
+E:\PepperCart\Segmentation Creator\obj\Release\Segmentation Creator.csprojResolveAssemblyReference.cache
+E:\PepperCart\Segmentation Creator\obj\Release\MainWindow.g.cs
+E:\PepperCart\Segmentation Creator\obj\Release\App.g.cs
+E:\PepperCart\Segmentation Creator\obj\Release\Segmentation Creator_Content.g.cs
+E:\PepperCart\Segmentation Creator\obj\Release\Segmentation Creator_MarkupCompile.cache
+E:\PepperCart\Segmentation Creator\obj\Release\Segmentation Creator_MarkupCompile.lref
+E:\PepperCart\Segmentation Creator\obj\Release\MainWindow.baml
+E:\PepperCart\Segmentation Creator\obj\Release\Segmentation Creator.g.resources
+E:\PepperCart\Segmentation Creator\obj\Release\SegmentationCreator.Properties.Resources.resources
+E:\PepperCart\Segmentation Creator\obj\Release\Segmentation Creator.csproj.GenerateResource.Cache
+E:\PepperCart\Segmentation Creator\obj\Release\Segmentation Creator.exe
+E:\PepperCart\Segmentation Creator\obj\Release\Segmentation Creator.pdb
+F:\PepperCart\Segmentation Creator\bin\Release\Accord.dll.config
+F:\PepperCart\Segmentation Creator\bin\Release\Resources\teinte.png
+F:\PepperCart\Segmentation Creator\bin\Release\Resources\teinte2.png
+F:\PepperCart\Segmentation Creator\bin\Release\Segmentation Creator.exe.config
+F:\PepperCart\Segmentation Creator\bin\Release\Segmentation Creator.exe
+F:\PepperCart\Segmentation Creator\bin\Release\Segmentation Creator.pdb
+F:\PepperCart\Segmentation Creator\bin\Release\Accord.Controls.dll
+F:\PepperCart\Segmentation Creator\bin\Release\Accord.dll
+F:\PepperCart\Segmentation Creator\bin\Release\Accord.Imaging.dll
+F:\PepperCart\Segmentation Creator\bin\Release\Accord.MachineLearning.dll
+F:\PepperCart\Segmentation Creator\bin\Release\Accord.Math.Core.dll
+F:\PepperCart\Segmentation Creator\bin\Release\Accord.Math.dll
+F:\PepperCart\Segmentation Creator\bin\Release\Accord.Statistics.dll
+F:\PepperCart\Segmentation Creator\bin\Release\System.Windows.Interactivity.dll
+F:\PepperCart\Segmentation Creator\bin\Release\ZedGraph.dll
+F:\PepperCart\Segmentation Creator\bin\Release\Accord.xml
+F:\PepperCart\Segmentation Creator\bin\Release\Accord.Controls.xml
+F:\PepperCart\Segmentation Creator\bin\Release\Accord.Imaging.xml
+F:\PepperCart\Segmentation Creator\bin\Release\Accord.MachineLearning.xml
+F:\PepperCart\Segmentation Creator\bin\Release\Accord.Math.xml
+F:\PepperCart\Segmentation Creator\bin\Release\Accord.Math.Core.xml
+F:\PepperCart\Segmentation Creator\bin\Release\Accord.Statistics.xml
+F:\PepperCart\Segmentation Creator\bin\Release\Emgu.CV.xml
+F:\PepperCart\Segmentation Creator\bin\Release\Emgu.CV.UI.xml
+F:\PepperCart\Segmentation Creator\bin\Release\Emgu.Util.xml
+F:\PepperCart\Segmentation Creator\bin\Release\ZedGraph.xml
+F:\PepperCart\Segmentation Creator\bin\Release\de\ZedGraph.resources.dll
+F:\PepperCart\Segmentation Creator\bin\Release\es\ZedGraph.resources.dll
+F:\PepperCart\Segmentation Creator\bin\Release\fr\ZedGraph.resources.dll
+F:\PepperCart\Segmentation Creator\bin\Release\hu\ZedGraph.resources.dll
+F:\PepperCart\Segmentation Creator\bin\Release\it\ZedGraph.resources.dll
+F:\PepperCart\Segmentation Creator\bin\Release\ja\ZedGraph.resources.dll
+F:\PepperCart\Segmentation Creator\bin\Release\pt\ZedGraph.resources.dll
+F:\PepperCart\Segmentation Creator\bin\Release\ru\ZedGraph.resources.dll
+F:\PepperCart\Segmentation Creator\bin\Release\sk\ZedGraph.resources.dll
+F:\PepperCart\Segmentation Creator\bin\Release\sv\ZedGraph.resources.dll
+F:\PepperCart\Segmentation Creator\bin\Release\tr\ZedGraph.resources.dll
+F:\PepperCart\Segmentation Creator\bin\Release\zh-cn\ZedGraph.resources.dll
+F:\PepperCart\Segmentation Creator\bin\Release\zh-tw\ZedGraph.resources.dll
+F:\PepperCart\Segmentation Creator\obj\Release\Segmentation Creator.csprojResolveAssemblyReference.cache
+F:\PepperCart\Segmentation Creator\obj\Release\MainWindow.g.cs
+F:\PepperCart\Segmentation Creator\obj\Release\App.g.cs
+F:\PepperCart\Segmentation Creator\obj\Release\Segmentation Creator_Content.g.cs
+F:\PepperCart\Segmentation Creator\obj\Release\Segmentation Creator_MarkupCompile.cache
+F:\PepperCart\Segmentation Creator\obj\Release\Segmentation Creator_MarkupCompile.lref
+F:\PepperCart\Segmentation Creator\obj\Release\MainWindow.baml
+F:\PepperCart\Segmentation Creator\obj\Release\Segmentation Creator.g.resources
+F:\PepperCart\Segmentation Creator\obj\Release\SegmentationCreator.Properties.Resources.resources
+F:\PepperCart\Segmentation Creator\obj\Release\Segmentation Creator.csproj.GenerateResource.Cache
+F:\PepperCart\Segmentation Creator\obj\Release\Segmentation Creator.exe
+F:\PepperCart\Segmentation Creator\obj\Release\Segmentation Creator.pdb
+E:\PepperCart\Segmentation Creator\bin\Release\Emgu.CV.dll
+E:\PepperCart\Segmentation Creator\bin\Release\Emgu.CV.UI.dll
+E:\PepperCart\Segmentation Creator\bin\Release\Emgu.Util.dll
+E:\PepperCart\Segmentation Creator\obj\Release\Segmentation Creator.csproj.CoreCompileInputs.cache

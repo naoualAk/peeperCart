@@ -1,0 +1,663 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VisartLib</name>
+    </assembly>
+    <members>
+        <member name="T:VisartLib.ColorExtension.NamespaceDoc">
+            <summary>
+            Le  namespace <see cref="N:VisartLib.ColorExtension"/> contient les classes pour effectuer des algorithmes sur les images couleurs.
+            </summary>
+        </member>
+        <member name="T:VisartLib.ColorExtension.InfoExtraction">
+            <summary>
+            Utiliser pour les algorithmes dédiés à l'extraction d'informations sur la couleur
+            </summary>
+        </member>
+        <member name="T:VisartLib.ColorExtension.InfoExtraction.HISTO_MOD">
+            <summary>
+            Enumération permettant de différencier les couples possibles de l'espace colorimétrique HSV
+            </summary>
+        </member>
+        <member name="M:VisartLib.ColorExtension.InfoExtraction.DrawHistoHSV(Emgu.CV.Image{Emgu.CV.Structure.Hsv,System.Byte},VisartLib.ColorExtension.InfoExtraction.HISTO_MOD)">
+            <summary>
+            Calcule l'histogramme dans l'espace HSV et le dessine en NB
+            </summary>
+            <param name="im"></param>
+            <param name="mode"> mode 1 = HS
+                                mode 2 = SV 
+                                mode 3 = HV
+            </param>
+            <returns>image sortie</returns>
+        </member>
+        <member name="M:VisartLib.ColorExtension.InfoExtraction.ToRGB(Emgu.CV.Structure.Hls)">
+            <summary>
+                Convert HSl to RGB
+            </summary>
+            <param name="hsl"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VisartLib.ColorExtension.InfoExtraction.ToRGB(Emgu.CV.Structure.Lab)">
+            <summary>
+             Convert lab to RGB
+            </summary>
+            <param name="lab"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VisartLib.ColorExtension.InfoExtraction.Transparence(Emgu.CV.Structure.Rgb,Emgu.CV.Structure.Rgb,System.Single,System.Single)">
+            <summary>
+            dst = src*alpha + src2*beta
+            </summary>
+            <param name="src"></param>
+            <param name="src2"></param>
+            <param name="alpha"></param>
+            <param name="beta"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VisartLib.ColorExtension.InfoExtraction.DrawHistoHSVColor(Emgu.CV.Image{Emgu.CV.Structure.Hsv,System.Byte},VisartLib.ColorExtension.InfoExtraction.HISTO_MOD)">
+            <summary>
+            Calcule l'histogramme dans l'espace HSV et le dessine en couleur
+            </summary>
+            <param name="im">image Source</param>
+            <param name="mode"> mode 1 = HS
+                                mode 2 = SV 
+                                mode 3 = HV
+            </param>
+            <returns>image résultats</returns>
+        </member>
+        <member name="M:VisartLib.ColorExtension.InfoExtraction.CIEDE2000(Emgu.CV.Structure.Lab,Emgu.CV.Structure.Lab)">
+            <summary>
+            Calcule la distance colorimétrique d'après CIEDE2000
+            </summary>
+            <param name="lab1"></param>
+            <param name="lab2"></param>
+            <returns>distance colorimétrique</returns>
+        </member>
+        <member name="T:VisartLib.ColorExtension.InfoExtraction.DistMode">
+            <summary>
+            Enumération permettant de différencier les différentes méthodes de calculs de distances colorimétriques
+            </summary>
+        </member>
+        <member name="M:VisartLib.ColorExtension.InfoExtraction.DistManhattan(Emgu.CV.Image{Emgu.CV.Structure.Lab,System.Single},Emgu.CV.Structure.Lab)">
+            <summary>
+            Calcule la distance de manhattan de chaque pixel non noir par rapport à une couleur référence
+            </summary>
+            <param name="im"></param>
+            <param name="colorRef">couleur référence</param>
+            <returns>Liste des distances avec chaque pixel</returns>
+        </member>
+        <member name="M:VisartLib.ColorExtension.InfoExtraction.DistDeltaE76(Emgu.CV.Image{Emgu.CV.Structure.Lab,System.Single},Emgu.CV.Structure.Lab)">
+            <summary>
+            Calcule la distance Delta76 de chaque pixel non noir par rapport à une couleur référence
+            </summary>
+            <param name="im"></param>
+            <param name="colorRef">couleur référence</param>
+            <returns>Liste des distances avec chaque pixel</returns>
+        </member>
+        <member name="M:VisartLib.ColorExtension.InfoExtraction.DistDeltaE2000(Emgu.CV.Image{Emgu.CV.Structure.Lab,System.Single},Emgu.CV.Structure.Lab)">
+            <summary>
+            Calcule la distance Delta2000 de chaque pixel non noir par rapport à une couleur référence
+            </summary>
+            <param name="im"></param>
+            <param name="colorRef">couleur référence</param>
+            <returns>Liste des distances avec chaque pixel</returns>
+        </member>
+        <member name="M:VisartLib.ColorExtension.InfoExtraction.ColorFidelity(Emgu.CV.Image{Emgu.CV.Structure.Lab,System.Byte},Emgu.CV.Structure.Lab,System.Double@,System.Double@,Emgu.CV.Image{Emgu.CV.Structure.Gray,System.Byte},VisartLib.ColorExtension.InfoExtraction.DistMode)">
+            <summary>
+            Calcule la moyenne et l'écart type d'une image par rapport à une couleur référence
+            </summary>
+            <param name="im">image source</param>
+            <param name="colorRef">couleur référence</param>
+            <param name="mean">moyenne (sortie)</param>
+            <param name="std">écart type (sortie)</param>
+            <param name="mask"> masque</param>
+            <param name="d">mode de distance couleur</param>
+        </member>
+        <member name="T:VisartLib.ColorExtension.Segmentation">
+            <summary>
+            Utiliser pour les algorithmes dédiés à la segmentations sur la couleur
+            </summary>
+        </member>
+        <member name="M:VisartLib.ColorExtension.Segmentation.Mask``1(Emgu.CV.Image{``0,System.Byte},Emgu.CV.Image{Emgu.CV.Structure.Gray,System.Byte})">
+            <summary>
+            Calcule l'image im en réalisant un masque avec un masque NB
+            </summary>
+            <param name="im">image source</param>
+            <param name="mask">masque NB </param>
+        </member>
+        <member name="M:VisartLib.ColorExtension.Segmentation.Mask(Emgu.CV.Image{Emgu.CV.Structure.Lab,System.Single},Emgu.CV.Image{Emgu.CV.Structure.Gray,System.Byte})">
+            <summary>
+            Calcule l'image im en réalisant un masque avec un masque NB
+            </summary>
+            <param name="im">image source</param>
+            <param name="mask">masque NB </param>
+        </member>
+        <member name="T:VisartLib.ContourExtension">
+            <summary>
+            Classe qui permet de réaliser des méthodes sur : 
+            <list type="">
+            <item>les <c>Contour&lt;Point&gt;</c></item>
+            <item>les <c>Seq&lt;Point&gt;</c></item>
+            </list> 
+            </summary>
+        </member>
+        <member name="M:VisartLib.ContourExtension.angleApproxContour(Emgu.CV.Contour{System.Drawing.Point},System.Int32)">
+            <summary>
+            Calculate angle beetween (idCorner-1, idCorner, idCorner+1) vertices of ApproxContour
+            </summary>
+            <param name="approxContour"></param>
+            <param name="idCorner"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VisartLib.ContourExtension.MeanDistanceBeetweenConsecutivePoints(Emgu.CV.Contour{System.Drawing.Point},System.Int32)">
+            <summary>
+             return mean distance between [idCorner,idCorner+1] and [idCorner,idCorner-1] vertices of ApproxContour
+            </summary>
+            <param name="approxContour"></param>
+            <param name="idCorner"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VisartLib.ContourExtension.MaxLength(Emgu.CV.Contour{System.Drawing.Point},System.Drawing.Point@,System.Drawing.Point@)">
+            <summary>
+            Calcule la longueur maximale du contour de la forme
+            </summary>
+            <param name="p1"> Point1 du segment "Longueur"</param>
+            <param name="p2"> Point2 du segment "Longueur"</param>
+            <returns>Longueur maximale du contour de la forme</returns>
+        </member>
+        <member name="M:VisartLib.ContourExtension.MinLength(Emgu.CV.Contour{System.Drawing.Point},System.Drawing.Point@,System.Drawing.Point@)">
+            <summary>
+            Calcule la longueur maximale du contour de la forme
+            </summary>
+            <param name="p1"> Point1 du segment "Longueur"</param>
+            <param name="p2"> Point2 du segment "Longueur"</param>
+            <returns>Longueur maximale du contour de la forme</returns>
+        </member>
+        <member name="M:VisartLib.ContourExtension.idExtremePoint(Emgu.CV.Seq{System.Drawing.Point})">
+            <summary>
+            Calcule les points (le plus haut, le plus bas) d'une forme
+            </summary>
+            <param name="convexHull"> forme convexe</param>
+            <returns>liste des id des points "haut" et "bas"</returns>
+        </member>
+        <member name="M:VisartLib.ContourExtension.RotatingCaliper(Emgu.CV.Seq{System.Drawing.Point})">
+             <summary>
+              Calcule la longueur et largeur d'une forme par l'algorithme Rotating Caliper
+             </summary>
+             <param name="convexHull">prend en paramètre une forme convexe</param>
+             <returns> Renvoi un tableau de vector2 :
+                        vector2[0] = minLength
+                        vector2[1] = maxLength
+            </returns>
+        </member>
+        <member name="M:VisartLib.ContourExtension.rotCaliperMinWidth(Emgu.CV.Seq{System.Drawing.Point},System.Drawing.Point@,System.Drawing.Point@,System.Numerics.Vector2@)">
+            <summary>
+            Calcule la distance minimale par l'algorithme RotatingCaliper 
+            </summary>
+            <param name="convexHull">Contour convexe</param>
+            <param name="p1">point1 (sortie)</param>
+            <param name="p2">point2 (sortie)</param>
+            <param name="direction">vecteur direction du caliper(sortie)</param>
+            <returns>distance</returns>
+        </member>
+        <member name="M:VisartLib.ContourExtension.rotCaliperMaxLength(Emgu.CV.Seq{System.Drawing.Point},System.Drawing.Point@,System.Drawing.Point@,System.Numerics.Vector2@)">
+            <summary>
+            Calcule la distance maximale par l'algorithme RotatingCaliper 
+            </summary>
+            <param name="convexHull">Contour convexe</param>
+            <param name="p1">point1 (sortie)</param>
+            <param name="p2">point2 (sortie)</param>
+            <param name="direction">vecteur direction du caliper(sortie)</param>
+            <returns>distance</returns>
+        </member>
+        <member name="M:VisartLib.ContourExtension.idNearestPointAndApproxContour(Emgu.CV.Contour{System.Drawing.Point},System.Drawing.Point)">
+            <summary>
+            return nearest id point of ApproxContour and point ref 
+            </summary>
+            <param name="ptRef"></param>
+            <returns></returns>
+        </member>
+        <member name="T:VisartLib.Data.NamespaceDoc">
+            <summary>
+            Le  namespace <see cref="N:VisartLib.Data"/> contient les classes de données (formes, etc.)
+            </summary>
+        </member>
+        <member name="T:VisartLib.Data.CornShape">
+            <summary>
+            Donnée pour caractériser une forme pour graine de mais
+            Hérite de la classe <see cref="T:VisartLib.Data.Shape"/>
+            </summary>
+        </member>
+        <member name="M:VisartLib.Data.CornShape.calcCatchPointbyApproxContour(System.Drawing.Point)">
+            <summary>
+            Calcule le point d'attache d'une graine par méthode aproximation de contour
+            </summary>
+            <param name="refPoint">Point référence (par défaut utiliser le centroid)</param>
+            <returns>retourne true si calcul réussi</returns>
+        </member>
+        <member name="M:VisartLib.Data.CornShape.HatPointbyApproxContour(System.Drawing.Point)">
+            <summary>
+            Calcule le point d'attache d'une graine par méthode aproximation de contour
+            </summary>
+            <param name="refPoint">Point référence </param>
+        </member>
+        <member name="P:VisartLib.Data.CornShape.HatPoint">
+            <summary>
+            Position du chapeau du grain
+            </summary>
+        </member>
+        <member name="P:VisartLib.Data.CornShape.CatchPoint">
+            <summary>
+            Position du point d'attache
+            </summary>
+        </member>
+        <member name="P:VisartLib.Data.CornShape.IdHatPoint">
+            <summary>
+            id de du point sur l'approxcontour du chapeau
+            </summary>
+        </member>
+        <member name="P:VisartLib.Data.CornShape.IdCatchPoint">
+            <summary>
+            id de du point sur l'approxcontour du point d'attache
+            </summary>
+        </member>
+        <member name="M:VisartLib.Data.CornShape.idFarthestPointAndApproxContour(System.Drawing.Point)">
+            <summary>
+            return farthest id points of ApproxContour and point ref
+            </summary>
+            <param name="ptRef">point référence</param>
+            <returns></returns>
+        </member>
+        <member name="M:VisartLib.Data.CornShape.idFarthestPointAndApproxContour(System.Drawing.PointF)">
+            <summary>
+            return farthest id points of ApproxContour and point ref
+            </summary>
+            <param name="ptRef">point référence</param>
+            <returns></returns>
+        </member>
+        <member name="T:VisartLib.Data.Shape">
+            <summary>
+            Donnée pour caractériser une forme
+            </summary>
+        </member>
+        <member name="P:VisartLib.Data.Shape.CentroidPoint">
+            <summary>
+            Position du centroid de la graine
+            </summary>
+        </member>
+        <member name="M:VisartLib.Data.Shape.angleApproxContour(System.Int32)">
+            <summary>
+            return angle beetween (idCorner-1, idCorner, idCorner+1) vertices of ApproxContour
+            </summary>
+            <param name="idCorner"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VisartLib.Data.Shape.BinaryImage(System.Drawing.Size)">
+            <summary>
+            renvoi l'image binaire d'ue forme
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:VisartLib.Data.Shape.MeanDistanceBeetweenConsecutivePoints(System.Int32)">
+            <summary>
+            return mean distance between [idCorner,idCorner+1] and [idCorner,idCorner-1] vertices of ApproxContour
+            </summary>
+            <param name="idCorner">id of corner</param>
+            <returns>mean distance</returns>
+        </member>
+        <member name="M:VisartLib.Data.Shape.MaxLength">
+            <summary>
+             Calcule la longueur maximale du contour de la forme
+            </summary>
+            <returns>Longueur maximale du contour de la forme</returns>
+        </member>
+        <member name="M:VisartLib.Data.Shape.MaxLength(System.Drawing.Point@,System.Drawing.Point@)">
+            <summary>
+            Calcule la longueur maximale du contour de la forme
+            </summary>
+            <param name="p1"> Point1 du segment "Longueur"</param>
+            <param name="p2"> Point2 du segment "Longueur"</param>
+            <returns>Longueur maximale du contour de la forme</returns>
+        </member>
+        <member name="M:VisartLib.Data.Shape.MinLength">
+            <summary>
+            Calcule la distance minimale des différents points dans une forme.
+            Modifie l'attribut <see cref="F:VisartLib.Data.Shape.lengthMin"/> 
+            </summary>
+            <returns>return true si réussi</returns>
+        </member>
+        <member name="M:VisartLib.Data.Shape.MinLength(System.Drawing.Point@,System.Drawing.Point@)">
+            <summary>
+            Calcule la longueur maximale du contour de la forme
+            </summary>
+            <param name="p1"> Point1 du segment "Longueur"</param>
+            <param name="p2"> Point2 du segment "Longueur"</param>
+            <returns>Longueur maximale du contour de la forme</returns>
+        </member>
+        <member name="M:VisartLib.Data.Shape.idExtremePoint(Emgu.CV.Seq{System.Drawing.Point})">
+            <summary>
+            Calcule les points (le plus haut, le plus bas) d'une forme
+            </summary>
+            <param name="convexHull"> forme convexe</param>
+            <returns>liste des id des points "haut" et "bas"</returns>
+        </member>
+        <member name="M:VisartLib.Data.Shape.idExtremePoint">
+            <summary>
+            Calcule les points (le plus haut, le plus bas) d'une forme
+            </summary>
+            <returns>liste des id des points "haut" et "bas"</returns>
+        </member>
+        <member name="M:VisartLib.Data.Shape.RotatingCaliper(Emgu.CV.Seq{System.Drawing.Point})">
+             <summary>
+              Calcule la longueur et largeur d'une forme par l'algorithme Rotating Caliper
+             </summary>
+             <param name="convexHull">prend en paramètre une forme convexe</param>
+             <returns> Renvoi un tableau de vector2 :
+                        vector2[0] = minLength
+                        vector2[1] = maxLength
+            </returns>
+        </member>
+        <member name="M:VisartLib.Data.Shape.DistanceToPoint(System.Drawing.Point)">
+            <summary>
+            Distance minimale du contour par rapport à un point 
+            </summary>
+            <param name="p"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VisartLib.Data.Shape.idNearestPointAndApproxContour(System.Drawing.Point)">
+            <summary>
+            return nearest id point of ApproxContour and point ref 
+            </summary>
+            <param name="ptRef"></param>
+            <returns></returns>
+        </member>
+        <member name="P:VisartLib.Data.Shape.Roi">
+            <summary>
+            Region Of Interest de la forme
+            </summary>
+        </member>
+        <member name="P:VisartLib.Data.Shape.Contour">
+            <summary>
+            Contour de la forme
+            </summary>
+        </member>
+        <member name="P:VisartLib.Data.Shape.RectMinArea">
+            <summary>
+            Rectangle englobant de la forme avec l'aire la plus minimale
+            </summary>
+        </member>
+        <member name="P:VisartLib.Data.Shape.Ellipse">
+            <summary>
+            Ellipse de la forme
+            </summary>
+        </member>
+        <member name="P:VisartLib.Data.Shape.ApproxContour">
+            <summary>
+            Contour approximatif de la forme
+            </summary>
+        </member>
+        <member name="P:VisartLib.Data.Shape.LengthMax">
+            <summary>
+            Longueur maximale trouvée sur l'ensemble des points de la forme
+            </summary>
+        </member>
+        <member name="P:VisartLib.Data.Shape.LengthMin">
+            <summary>
+            Longueur minimale trouvée sur l'ensemble des points de la forme
+            </summary>
+        </member>
+        <member name="P:VisartLib.Data.Shape.ConvexHull">
+            <summary>
+            Contour convexe de la forme
+            </summary>
+        </member>
+        <member name="T:VisartLib.ImGrayExtension">
+            <summary>
+            Classe qui permet de réaliser des méthodes sur les <c>Image&lt;Gray&gt;</c>  
+            </summary>
+        </member>
+        <member name="M:VisartLib.ImGrayExtension.ShannonEntropy(Emgu.CV.Image{Emgu.CV.Structure.Gray,System.Byte})">
+            <summary>
+            Calcule l'entropie de Shannon
+            </summary>
+            <param name="im"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VisartLib.ImGrayExtension.DistanceMap(Emgu.CV.Image{Emgu.CV.Structure.Gray,System.Byte})">
+            <summary>
+            retourne la map des distances
+            </summary>
+            <param name="im"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VisartLib.ImGrayExtension.DispersionMap(Emgu.CV.Image{Emgu.CV.Structure.Gray,System.Byte})">
+            <summary>
+            Calcule la map de dispersion des valeurs 
+            </summary>
+            <param name="im">gray image skeleton with 0 or 255</param>
+            <returns></returns>
+        </member>
+        <member name="M:VisartLib.ImGrayExtension.Mask(Emgu.CV.Image{Emgu.CV.Structure.Gray,System.Single},Emgu.CV.Image{Emgu.CV.Structure.Gray,System.Byte})">
+            <summary>
+            Mask une image float avec un mask 0 ou 255
+            </summary>
+            <param name="im"></param>
+            <param name="mask"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VisartLib.ImGrayExtension.FindShapes(Emgu.CV.Image{Emgu.CV.Structure.Gray,System.Byte},System.Double,System.Boolean)">
+            <summary>
+             Calcule les contours dans une image NB (255 ou 0) 
+            </summary>
+            <param name="im"></param>
+            <param name="thresholdArea"> Aire minimale pour compter la forme</param>
+            <param name="drawInside">Dessiner l'intérieur de la forme</param>
+            <returns></returns>
+        </member>
+        <member name="M:VisartLib.ImGrayExtension.DrawLine(Emgu.CV.Image{Emgu.CV.Structure.Gray,System.Byte},System.Drawing.PointF,System.Numerics.Vector2)">
+            <summary>
+            Dessine une ligne d'origine a, de vecteur b
+            </summary>
+            <param name="im"></param>
+            <param name="a"></param>
+            <param name="b"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VisartLib.ImGrayExtension.Haralick(Emgu.CV.Image{Emgu.CV.Structure.Gray,System.Byte})">
+            <summary>
+            Calcule les critères d'haralick d'une image grise
+            </summary>
+            <param name="im">image source</param>
+            <returns>liste d'haralick</returns>
+        </member>
+        <member name="T:VisartLib.ZhangSuen">
+            <summary>
+            Implémentation algorithme du squelette de Zhang Suen
+            </summary>
+        </member>
+        <member name="M:VisartLib.ZhangSuen.Skeleton(Emgu.CV.Image{Emgu.CV.Structure.Gray,System.Byte})">
+            <summary>
+            Calcule le squelette d'une image NB par l'algo Zhang Suen
+            </summary>
+            <param name="im"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VisartLib.ZhangSuen.ZhangSuenThinning(System.Byte[0:,0:,0:])">
+            <summary>
+            Skeletonization by Zhang-Suen Thinning algorithm
+            </summary>
+            <param name="data">Pixels of image: byte[width, height, 1], where black is 0, white is 255</param>
+        </member>
+        <member name="T:VisartLib.ListExtension">
+            <summary>
+             Classe qui permet de réaliser des méthodes sur les listes 
+            </summary>
+        </member>
+        <member name="M:VisartLib.ListExtension.StdDev(System.Collections.Generic.IEnumerable{System.Single})">
+            <summary>
+            Calcule l'écart-type d'une liste de type float"
+            </summary>
+            <param name="values"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VisartLib.ListExtension.StdDev``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Double})">
+            <summary>
+            Calcule l'écart type d'une liste générale
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="list"></param>
+            <param name="values"></param>
+            <returns></returns>
+        </member>
+        <member name="T:VisartLib.MathProc">
+            <summary>
+             Classe qui permet de réaliser des méthodes dédiées aux calculs mathématiques
+            </summary>
+        </member>
+        <member name="M:VisartLib.MathProc.DistanceEuclidienne(System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Calcule distance euclidienne entre un point(x,y) et un point(x1,y1)
+            </summary>
+            <param name="x"></param>
+            <param name="y"></param>
+            <param name="x1"></param>
+            <param name="y1"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VisartLib.MathProc.Distance(System.Drawing.Point,System.Drawing.Point)">
+            <summary>
+            Calcule la distance entre deux point de type Point
+            </summary>
+            <param name="p1"></param>
+            <param name="p2"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VisartLib.MathProc.Distance(System.Drawing.PointF,System.Drawing.PointF)">
+            <summary>
+            Calcule la distance entre deux points de type PointF
+            </summary>
+            <param name="p1"></param>
+            <param name="p2"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VisartLib.MathProc.Scalar(System.Numerics.Vector3,System.Numerics.Vector3)">
+            <summary>
+            Calcule le produit scalaire de deux vecteurs
+            </summary>
+            <param name="v1"></param>
+            <param name="v2"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VisartLib.MathProc.Cross(System.Numerics.Vector2,System.Numerics.Vector2)">
+            <summary>
+            Calcule le produit vectoriel de deux vecteurs
+            </summary>
+            <param name="v1"></param>
+            <param name="v2"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VisartLib.MathProc.Rotate(System.Numerics.Vector2,System.Double)">
+            <summary>
+            Calcule la rotation d'un vecteur
+            </summary>
+            <param name="v"></param>
+            <param name="angleRad"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VisartLib.MathProc.AngleRad(System.Numerics.Vector2,System.Numerics.Vector2)">
+            <summary>
+            return angle between two vectors in Rad
+            </summary>
+            <param name="v1"></param>
+            <param name="v2"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VisartLib.MathProc.AngleDeg(System.Numerics.Vector2,System.Numerics.Vector2)">
+            <summary>
+            return angle between two vectors in degree
+            </summary>
+            <param name="v1"></param>
+            <param name="v2"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VisartLib.MathProc.DistancePointToSegment(System.Drawing.PointF,System.Drawing.PointF,System.Numerics.Vector2,System.Drawing.PointF@)">
+            <summary>
+            Calcule la distance minimale entre un point p1 et le segment d'origine pt de direction vect 
+            </summary>
+            <param name="pt">point origine</param>
+            <param name="p1"></param>
+            <param name="vect">direction</param>
+            <param name="closest">point intersection</param>
+            <returns>distance</returns>
+        </member>
+        <member name="M:VisartLib.MathProc.Deg2Rad(System.Double)">
+            <summary>
+            Conversion Degrés en Radians
+            </summary>
+            <param name="deg"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VisartLib.MathProc.Rad2Deg(System.Double)">
+            <summary>
+            Conversion Radians en Degrés
+            </summary>
+            <param name="rad"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VisartLib.MathProc.DistancePointToVector(System.Drawing.PointF,System.Drawing.PointF,System.Numerics.Vector2)">
+            <summary>
+            Calcule la distance minimale entre un point p1 et une droite d'origine pt de direction vect
+            </summary>
+            <param name="pt"></param>
+            <param name="p1"></param>
+            <param name="vect"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VisartLib.MathProc.DistancePointToVector(System.Drawing.PointF,System.Drawing.PointF,System.Numerics.Vector2,System.Drawing.Point@)">
+            <summary>
+            Calcule la distance minimale entre un point p1 et la droite d'origine pt de direction vect 
+            </summary>
+            <param name="pt">point origine</param>
+            <param name="p1"></param>
+            <param name="vect">direction</param>
+            <param name="closest">point intersection</param>
+            <returns>distance</returns>
+        </member>
+        <member name="M:VisartLib.MathProc.Intersection(System.Drawing.Point,System.Drawing.Point,System.Drawing.Point)">
+            <summary>
+            Calcule l'intersection entre [p1,p2] et [p3,point_retourné] si droite parallele return Point()
+            </summary>
+            <param name="p1"></param>
+            <param name="p2"></param>
+            <param name="p3"></param>
+        </member>
+        <member name="M:VisartLib.MathProc.FragSegment(System.Drawing.Point,System.Drawing.Point,System.Single)">
+            <summary>
+             Calcule le point à un pourcentage d'un segment
+            </summary>
+            <param name="p1"> Point 1</param>
+            <param name="p2">Point 2 </param>
+            <param name="div"> Pourcentage entre 0 et 1</param>
+            <returns>renvoi le point</returns>
+        </member>
+        <member name="M:VisartLib.MathProc.MidSegment(System.Drawing.Point,System.Drawing.Point)">
+            <summary>
+            Calcule le milieu d'un segment
+            </summary>
+            <param name="p1"></param>
+            <param name="p2"></param>
+            <returns></returns>
+        </member>
+        <member name="T:VisartLib.NamespaceDoc">
+            <summary>
+            Le  namespace <see cref="N:VisartLib"/> contient les algorithmes pour effectuer les algorithmes sur :
+                <list type="">
+                <item>les images monochromes</item>
+                <item>les contours</item>
+                <item>les calculs maths</item>
+                <item>les listes </item>
+            </list> 
+            </summary>
+        </member>
+    </members>
+</doc>

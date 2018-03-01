@@ -1,0 +1,378 @@
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\Segmentation Creator.exe.config
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\Accord.dll.config
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\Resources\teinte.png
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\Resources\teinte2.png
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\Segmentation Creator.exe
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\Segmentation Creator.pdb
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\Accord.Controls.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\Accord.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\Accord.Imaging.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\Accord.MachineLearning.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\Accord.Math.Core.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\Accord.Math.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\Accord.Statistics.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\Emgu.CV.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\Emgu.CV.UI.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\Emgu.Util.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\MahApps.Metro.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\ZedGraph.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\Accord.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\Accord.Controls.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\Accord.Imaging.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\Accord.MachineLearning.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\Accord.Math.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\Accord.Math.Core.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\Accord.Statistics.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\Emgu.CV.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\Emgu.CV.UI.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\Emgu.Util.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\MahApps.Metro.pdb
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\MahApps.Metro.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\ZedGraph.xml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\obj\Debug\Segmentation Creator.csprojResolveAssemblyReference.cache
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\obj\Debug\MainWindow.g.cs
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\obj\Debug\App.g.cs
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\obj\Debug\Segmentation Creator_Content.g.cs
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\obj\Debug\Segmentation Creator_MarkupCompile.cache
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\obj\Debug\Segmentation Creator_MarkupCompile.lref
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\obj\Debug\App.baml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\obj\Debug\MainWindow.baml
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\obj\Debug\Segmentation Creator.g.resources
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\obj\Debug\Biostimulant.Properties.Resources.resources
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\obj\Debug\Segmentation Creator.csproj.GenerateResource.Cache
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\obj\Debug\Segmentation Creator.exe
+C:\Users\damien.delhay\Source\Repos\ProcessPerformance\Segmentation Creator\obj\Debug\Segmentation Creator.pdb
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.dll.config
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Resources\teinte.png
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Resources\teinte2.png
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Segmentation Creator.exe.config
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Segmentation Creator.exe
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Segmentation Creator.pdb
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.Controls.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.Imaging.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.Math.Core.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.Math.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.Statistics.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Emgu.CV.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Emgu.Util.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\ZedGraph.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.xml
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.Controls.xml
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.Imaging.xml
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.Math.xml
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.Math.Core.xml
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.Statistics.xml
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Emgu.CV.xml
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Emgu.Util.xml
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\ZedGraph.xml
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\obj\Debug\MainWindow.g.cs
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\obj\Debug\App.g.cs
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\obj\Debug\Segmentation Creator_Content.g.cs
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\obj\Debug\Segmentation Creator_MarkupCompile.cache
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\obj\Debug\Segmentation Creator_MarkupCompile.lref
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\obj\Debug\App.baml
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\obj\Debug\MainWindow.baml
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\obj\Debug\Segmentation Creator.g.resources
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\obj\Debug\Biostimulant.Properties.Resources.resources
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\obj\Debug\Segmentation Creator.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\obj\Debug\Segmentation Creator.exe
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\obj\Debug\Segmentation Creator.pdb
+C:\Users\Public\Documents\Allied Vision\Vimba_2.1\VimbaNET_Examples\SynchronousGrab\Forms\Build\VS2010\Segmentation Creator\obj\Debug\Segmentation Creator.csprojResolveAssemblyReference.cache
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.dll.config
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Resources\teinte.png
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Resources\teinte2.png
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Segmentation Creator.exe.config
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Segmentation Creator.exe
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Segmentation Creator.pdb
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.Controls.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.Imaging.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.MachineLearning.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.Math.Core.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.Math.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.Statistics.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Emgu.CV.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Emgu.CV.UI.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Emgu.Util.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\System.Windows.Interactivity.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\ZedGraph.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.Controls.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.Imaging.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.MachineLearning.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.Math.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.Math.Core.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Accord.Statistics.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Emgu.CV.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Emgu.CV.UI.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\Emgu.Util.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\ZedGraph.xml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\de\ZedGraph.resources.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\es\ZedGraph.resources.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\fr\ZedGraph.resources.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\hu\ZedGraph.resources.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\it\ZedGraph.resources.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\ja\ZedGraph.resources.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\pt\ZedGraph.resources.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\ru\ZedGraph.resources.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\sk\ZedGraph.resources.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\sv\ZedGraph.resources.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\tr\ZedGraph.resources.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\zh-cn\ZedGraph.resources.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\bin\Debug\zh-tw\ZedGraph.resources.dll
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\obj\Debug\MainWindow.g.cs
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\obj\Debug\App.g.cs
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\obj\Debug\Segmentation Creator_Content.g.cs
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\obj\Debug\Segmentation Creator_MarkupCompile.cache
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\obj\Debug\Segmentation Creator_MarkupCompile.lref
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\obj\Debug\MainWindow.baml
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\obj\Debug\Segmentation Creator.g.resources
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\obj\Debug\SegmentationCreator.Properties.Resources.resources
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\obj\Debug\Segmentation Creator.csproj.GenerateResource.Cache
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\obj\Debug\Segmentation Creator.exe
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\obj\Debug\Segmentation Creator.pdb
+G:\Projets\PepperCart\Programmation\PepperSoft\Forms\Build\VS2010\Segmentation Creator\obj\Debug\Segmentation Creator.csprojResolveAssemblyReference.cache
+F:\PepperCart\Segmentation Creator\bin\Debug\Accord.dll.config
+F:\PepperCart\Segmentation Creator\bin\Debug\Resources\teinte.png
+F:\PepperCart\Segmentation Creator\bin\Debug\Resources\teinte2.png
+F:\PepperCart\Segmentation Creator\bin\Debug\Segmentation Creator.exe.config
+F:\PepperCart\Segmentation Creator\bin\Debug\Segmentation Creator.exe
+F:\PepperCart\Segmentation Creator\bin\Debug\Segmentation Creator.pdb
+F:\PepperCart\Segmentation Creator\bin\Debug\Accord.Controls.dll
+F:\PepperCart\Segmentation Creator\bin\Debug\Accord.dll
+F:\PepperCart\Segmentation Creator\bin\Debug\Accord.Imaging.dll
+F:\PepperCart\Segmentation Creator\bin\Debug\Accord.MachineLearning.dll
+F:\PepperCart\Segmentation Creator\bin\Debug\Accord.Math.Core.dll
+F:\PepperCart\Segmentation Creator\bin\Debug\Accord.Math.dll
+F:\PepperCart\Segmentation Creator\bin\Debug\Accord.Statistics.dll
+F:\PepperCart\Segmentation Creator\bin\Debug\System.Windows.Interactivity.dll
+F:\PepperCart\Segmentation Creator\bin\Debug\ZedGraph.dll
+F:\PepperCart\Segmentation Creator\bin\Debug\Accord.xml
+F:\PepperCart\Segmentation Creator\bin\Debug\Accord.Controls.xml
+F:\PepperCart\Segmentation Creator\bin\Debug\Accord.Imaging.xml
+F:\PepperCart\Segmentation Creator\bin\Debug\Accord.MachineLearning.xml
+F:\PepperCart\Segmentation Creator\bin\Debug\Accord.Math.xml
+F:\PepperCart\Segmentation Creator\bin\Debug\Accord.Math.Core.xml
+F:\PepperCart\Segmentation Creator\bin\Debug\Accord.Statistics.xml
+F:\PepperCart\Segmentation Creator\bin\Debug\Emgu.CV.xml
+F:\PepperCart\Segmentation Creator\bin\Debug\Emgu.CV.UI.xml
+F:\PepperCart\Segmentation Creator\bin\Debug\Emgu.Util.xml
+F:\PepperCart\Segmentation Creator\bin\Debug\ZedGraph.xml
+F:\PepperCart\Segmentation Creator\bin\Debug\de\ZedGraph.resources.dll
+F:\PepperCart\Segmentation Creator\bin\Debug\es\ZedGraph.resources.dll
+F:\PepperCart\Segmentation Creator\bin\Debug\fr\ZedGraph.resources.dll
+F:\PepperCart\Segmentation Creator\bin\Debug\hu\ZedGraph.resources.dll
+F:\PepperCart\Segmentation Creator\bin\Debug\it\ZedGraph.resources.dll
+F:\PepperCart\Segmentation Creator\bin\Debug\ja\ZedGraph.resources.dll
+F:\PepperCart\Segmentation Creator\bin\Debug\pt\ZedGraph.resources.dll
+F:\PepperCart\Segmentation Creator\bin\Debug\ru\ZedGraph.resources.dll
+F:\PepperCart\Segmentation Creator\bin\Debug\sk\ZedGraph.resources.dll
+F:\PepperCart\Segmentation Creator\bin\Debug\sv\ZedGraph.resources.dll
+F:\PepperCart\Segmentation Creator\bin\Debug\tr\ZedGraph.resources.dll
+F:\PepperCart\Segmentation Creator\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\PepperCart\Segmentation Creator\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator.csprojResolveAssemblyReference.cache
+F:\PepperCart\Segmentation Creator\obj\Debug\MainWindow.g.cs
+F:\PepperCart\Segmentation Creator\obj\Debug\App.g.cs
+F:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator_Content.g.cs
+F:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator_MarkupCompile.cache
+F:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator_MarkupCompile.lref
+F:\PepperCart\Segmentation Creator\obj\Debug\MainWindow.baml
+F:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator.g.resources
+F:\PepperCart\Segmentation Creator\obj\Debug\SegmentationCreator.Properties.Resources.resources
+F:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator.csproj.GenerateResource.Cache
+F:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator.exe
+F:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator.pdb
+G:\PepperCart\Segmentation Creator\bin\Debug\Accord.dll.config
+G:\PepperCart\Segmentation Creator\bin\Debug\Resources\teinte.png
+G:\PepperCart\Segmentation Creator\bin\Debug\Resources\teinte2.png
+G:\PepperCart\Segmentation Creator\bin\Debug\Segmentation Creator.exe.config
+G:\PepperCart\Segmentation Creator\bin\Debug\Segmentation Creator.exe
+G:\PepperCart\Segmentation Creator\bin\Debug\Segmentation Creator.pdb
+G:\PepperCart\Segmentation Creator\bin\Debug\Accord.Controls.dll
+G:\PepperCart\Segmentation Creator\bin\Debug\Accord.dll
+G:\PepperCart\Segmentation Creator\bin\Debug\Accord.Imaging.dll
+G:\PepperCart\Segmentation Creator\bin\Debug\Accord.MachineLearning.dll
+G:\PepperCart\Segmentation Creator\bin\Debug\Accord.Math.Core.dll
+G:\PepperCart\Segmentation Creator\bin\Debug\Accord.Math.dll
+G:\PepperCart\Segmentation Creator\bin\Debug\Accord.Statistics.dll
+G:\PepperCart\Segmentation Creator\bin\Debug\System.Windows.Interactivity.dll
+G:\PepperCart\Segmentation Creator\bin\Debug\ZedGraph.dll
+G:\PepperCart\Segmentation Creator\bin\Debug\Accord.xml
+G:\PepperCart\Segmentation Creator\bin\Debug\Accord.Controls.xml
+G:\PepperCart\Segmentation Creator\bin\Debug\Accord.Imaging.xml
+G:\PepperCart\Segmentation Creator\bin\Debug\Accord.MachineLearning.xml
+G:\PepperCart\Segmentation Creator\bin\Debug\Accord.Math.xml
+G:\PepperCart\Segmentation Creator\bin\Debug\Accord.Math.Core.xml
+G:\PepperCart\Segmentation Creator\bin\Debug\Accord.Statistics.xml
+G:\PepperCart\Segmentation Creator\bin\Debug\Emgu.CV.xml
+G:\PepperCart\Segmentation Creator\bin\Debug\Emgu.CV.UI.xml
+G:\PepperCart\Segmentation Creator\bin\Debug\Emgu.Util.xml
+G:\PepperCart\Segmentation Creator\bin\Debug\ZedGraph.xml
+G:\PepperCart\Segmentation Creator\bin\Debug\de\ZedGraph.resources.dll
+G:\PepperCart\Segmentation Creator\bin\Debug\es\ZedGraph.resources.dll
+G:\PepperCart\Segmentation Creator\bin\Debug\fr\ZedGraph.resources.dll
+G:\PepperCart\Segmentation Creator\bin\Debug\hu\ZedGraph.resources.dll
+G:\PepperCart\Segmentation Creator\bin\Debug\it\ZedGraph.resources.dll
+G:\PepperCart\Segmentation Creator\bin\Debug\ja\ZedGraph.resources.dll
+G:\PepperCart\Segmentation Creator\bin\Debug\pt\ZedGraph.resources.dll
+G:\PepperCart\Segmentation Creator\bin\Debug\ru\ZedGraph.resources.dll
+G:\PepperCart\Segmentation Creator\bin\Debug\sk\ZedGraph.resources.dll
+G:\PepperCart\Segmentation Creator\bin\Debug\sv\ZedGraph.resources.dll
+G:\PepperCart\Segmentation Creator\bin\Debug\tr\ZedGraph.resources.dll
+G:\PepperCart\Segmentation Creator\bin\Debug\zh-cn\ZedGraph.resources.dll
+G:\PepperCart\Segmentation Creator\bin\Debug\zh-tw\ZedGraph.resources.dll
+G:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator.csprojResolveAssemblyReference.cache
+G:\PepperCart\Segmentation Creator\obj\Debug\MainWindow.g.cs
+G:\PepperCart\Segmentation Creator\obj\Debug\App.g.cs
+G:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator_Content.g.cs
+G:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator_MarkupCompile.cache
+G:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator_MarkupCompile.lref
+G:\PepperCart\Segmentation Creator\obj\Debug\MainWindow.baml
+G:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator.g.resources
+G:\PepperCart\Segmentation Creator\obj\Debug\SegmentationCreator.Properties.Resources.resources
+G:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator.csproj.GenerateResource.Cache
+G:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator.exe
+G:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator.pdb
+J:\PepperCart\Segmentation Creator\bin\Debug\Accord.dll.config
+J:\PepperCart\Segmentation Creator\bin\Debug\Resources\teinte.png
+J:\PepperCart\Segmentation Creator\bin\Debug\Resources\teinte2.png
+J:\PepperCart\Segmentation Creator\bin\Debug\Segmentation Creator.exe.config
+J:\PepperCart\Segmentation Creator\bin\Debug\Segmentation Creator.exe
+J:\PepperCart\Segmentation Creator\bin\Debug\Segmentation Creator.pdb
+J:\PepperCart\Segmentation Creator\bin\Debug\Accord.Controls.dll
+J:\PepperCart\Segmentation Creator\bin\Debug\Accord.dll
+J:\PepperCart\Segmentation Creator\bin\Debug\Accord.Imaging.dll
+J:\PepperCart\Segmentation Creator\bin\Debug\Accord.MachineLearning.dll
+J:\PepperCart\Segmentation Creator\bin\Debug\Accord.Math.Core.dll
+J:\PepperCart\Segmentation Creator\bin\Debug\Accord.Math.dll
+J:\PepperCart\Segmentation Creator\bin\Debug\Accord.Statistics.dll
+J:\PepperCart\Segmentation Creator\bin\Debug\Emgu.CV.dll
+J:\PepperCart\Segmentation Creator\bin\Debug\Emgu.CV.UI.dll
+J:\PepperCart\Segmentation Creator\bin\Debug\Emgu.Util.dll
+J:\PepperCart\Segmentation Creator\bin\Debug\System.Windows.Interactivity.dll
+J:\PepperCart\Segmentation Creator\bin\Debug\ZedGraph.dll
+J:\PepperCart\Segmentation Creator\bin\Debug\Accord.xml
+J:\PepperCart\Segmentation Creator\bin\Debug\Accord.Controls.xml
+J:\PepperCart\Segmentation Creator\bin\Debug\Accord.Imaging.xml
+J:\PepperCart\Segmentation Creator\bin\Debug\Accord.MachineLearning.xml
+J:\PepperCart\Segmentation Creator\bin\Debug\Accord.Math.xml
+J:\PepperCart\Segmentation Creator\bin\Debug\Accord.Math.Core.xml
+J:\PepperCart\Segmentation Creator\bin\Debug\Accord.Statistics.xml
+J:\PepperCart\Segmentation Creator\bin\Debug\Emgu.CV.xml
+J:\PepperCart\Segmentation Creator\bin\Debug\Emgu.CV.UI.xml
+J:\PepperCart\Segmentation Creator\bin\Debug\Emgu.Util.xml
+J:\PepperCart\Segmentation Creator\bin\Debug\ZedGraph.xml
+J:\PepperCart\Segmentation Creator\bin\Debug\de\ZedGraph.resources.dll
+J:\PepperCart\Segmentation Creator\bin\Debug\es\ZedGraph.resources.dll
+J:\PepperCart\Segmentation Creator\bin\Debug\fr\ZedGraph.resources.dll
+J:\PepperCart\Segmentation Creator\bin\Debug\hu\ZedGraph.resources.dll
+J:\PepperCart\Segmentation Creator\bin\Debug\it\ZedGraph.resources.dll
+J:\PepperCart\Segmentation Creator\bin\Debug\ja\ZedGraph.resources.dll
+J:\PepperCart\Segmentation Creator\bin\Debug\pt\ZedGraph.resources.dll
+J:\PepperCart\Segmentation Creator\bin\Debug\ru\ZedGraph.resources.dll
+J:\PepperCart\Segmentation Creator\bin\Debug\sk\ZedGraph.resources.dll
+J:\PepperCart\Segmentation Creator\bin\Debug\sv\ZedGraph.resources.dll
+J:\PepperCart\Segmentation Creator\bin\Debug\tr\ZedGraph.resources.dll
+J:\PepperCart\Segmentation Creator\bin\Debug\zh-cn\ZedGraph.resources.dll
+J:\PepperCart\Segmentation Creator\bin\Debug\zh-tw\ZedGraph.resources.dll
+J:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator.csprojResolveAssemblyReference.cache
+J:\PepperCart\Segmentation Creator\obj\Debug\MainWindow.g.cs
+J:\PepperCart\Segmentation Creator\obj\Debug\App.g.cs
+J:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator_Content.g.cs
+J:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator_MarkupCompile.cache
+J:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator_MarkupCompile.lref
+J:\PepperCart\Segmentation Creator\obj\Debug\MainWindow.baml
+J:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator.g.resources
+J:\PepperCart\Segmentation Creator\obj\Debug\SegmentationCreator.Properties.Resources.resources
+J:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator.csproj.GenerateResource.Cache
+J:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator.exe
+J:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator.pdb
+E:\PepperCart\Segmentation Creator\bin\Debug\Accord.dll.config
+E:\PepperCart\Segmentation Creator\bin\Debug\Resources\teinte.png
+E:\PepperCart\Segmentation Creator\bin\Debug\Resources\teinte2.png
+E:\PepperCart\Segmentation Creator\bin\Debug\Segmentation Creator.exe.config
+E:\PepperCart\Segmentation Creator\bin\Debug\Segmentation Creator.exe
+E:\PepperCart\Segmentation Creator\bin\Debug\Segmentation Creator.pdb
+E:\PepperCart\Segmentation Creator\bin\Debug\Accord.Controls.dll
+E:\PepperCart\Segmentation Creator\bin\Debug\Accord.dll
+E:\PepperCart\Segmentation Creator\bin\Debug\Accord.Imaging.dll
+E:\PepperCart\Segmentation Creator\bin\Debug\Accord.MachineLearning.dll
+E:\PepperCart\Segmentation Creator\bin\Debug\Accord.Math.Core.dll
+E:\PepperCart\Segmentation Creator\bin\Debug\Accord.Math.dll
+E:\PepperCart\Segmentation Creator\bin\Debug\Accord.Statistics.dll
+E:\PepperCart\Segmentation Creator\bin\Debug\Emgu.CV.dll
+E:\PepperCart\Segmentation Creator\bin\Debug\Emgu.CV.UI.dll
+E:\PepperCart\Segmentation Creator\bin\Debug\Emgu.Util.dll
+E:\PepperCart\Segmentation Creator\bin\Debug\System.Windows.Interactivity.dll
+E:\PepperCart\Segmentation Creator\bin\Debug\ZedGraph.dll
+E:\PepperCart\Segmentation Creator\bin\Debug\Accord.xml
+E:\PepperCart\Segmentation Creator\bin\Debug\Accord.Controls.xml
+E:\PepperCart\Segmentation Creator\bin\Debug\Accord.Imaging.xml
+E:\PepperCart\Segmentation Creator\bin\Debug\Accord.MachineLearning.xml
+E:\PepperCart\Segmentation Creator\bin\Debug\Accord.Math.xml
+E:\PepperCart\Segmentation Creator\bin\Debug\Accord.Math.Core.xml
+E:\PepperCart\Segmentation Creator\bin\Debug\Accord.Statistics.xml
+E:\PepperCart\Segmentation Creator\bin\Debug\Emgu.CV.xml
+E:\PepperCart\Segmentation Creator\bin\Debug\Emgu.CV.UI.xml
+E:\PepperCart\Segmentation Creator\bin\Debug\Emgu.Util.xml
+E:\PepperCart\Segmentation Creator\bin\Debug\ZedGraph.xml
+E:\PepperCart\Segmentation Creator\bin\Debug\de\ZedGraph.resources.dll
+E:\PepperCart\Segmentation Creator\bin\Debug\es\ZedGraph.resources.dll
+E:\PepperCart\Segmentation Creator\bin\Debug\fr\ZedGraph.resources.dll
+E:\PepperCart\Segmentation Creator\bin\Debug\hu\ZedGraph.resources.dll
+E:\PepperCart\Segmentation Creator\bin\Debug\it\ZedGraph.resources.dll
+E:\PepperCart\Segmentation Creator\bin\Debug\ja\ZedGraph.resources.dll
+E:\PepperCart\Segmentation Creator\bin\Debug\pt\ZedGraph.resources.dll
+E:\PepperCart\Segmentation Creator\bin\Debug\ru\ZedGraph.resources.dll
+E:\PepperCart\Segmentation Creator\bin\Debug\sk\ZedGraph.resources.dll
+E:\PepperCart\Segmentation Creator\bin\Debug\sv\ZedGraph.resources.dll
+E:\PepperCart\Segmentation Creator\bin\Debug\tr\ZedGraph.resources.dll
+E:\PepperCart\Segmentation Creator\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\PepperCart\Segmentation Creator\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\PepperCart\Segmentation Creator\obj\Debug\MainWindow.g.cs
+E:\PepperCart\Segmentation Creator\obj\Debug\App.g.cs
+E:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator_Content.g.cs
+E:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator_MarkupCompile.cache
+E:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator_MarkupCompile.lref
+E:\PepperCart\Segmentation Creator\obj\Debug\MainWindow.baml
+E:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator.g.resources
+E:\PepperCart\Segmentation Creator\obj\Debug\SegmentationCreator.Properties.Resources.resources
+E:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator.csproj.GenerateResource.Cache
+E:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator.csproj.CoreCompileInputs.cache
+E:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator.exe
+E:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator.pdb
+E:\PepperCart\Segmentation Creator\obj\Debug\Segmentation Creator.csprojResolveAssemblyReference.cache

@@ -1,0 +1,69 @@
+﻿<Window x:Class="pepperSoft.MachineController"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pepperSoft"
+        mc:Ignorable="d"
+        xmlns:emgu="clr-namespace:Emgu.CV.UI;assembly=Emgu.CV.UI"
+        Title="MachineController" Height="678.227" Width="705.136">
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+           
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="20"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Grid.RowSpan="3" >
+            <Grid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFE2E2E2" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </Grid.Background>
+
+        </Grid>
+
+        <WindowsFormsHost Panel.ZIndex="1" Grid.Row="3"   Margin="10,5,10,5" >
+            <emgu:ImageBox x:Name="imgBox"/>
+        </WindowsFormsHost>
+        <Label x:Name="label_path" Content="Dossier de sauvegarde : " Grid.Row="1"  Grid.Column="0" Height="71" VerticalAlignment="Top"/>
+
+        <Button x:Name="button_path" Content="Modifier dossier sauvegarde" Grid.Row="0" Width="190" Height="30" Click="button_path_Click" />
+        <Button x:Name="button_go" Content="Enregistrer les images" Grid.Row="2"    HorizontalAlignment="Center"  VerticalAlignment="Center" Width="180" Click="button_go_Click"/>
+        <StatusBar Grid.Row="6" Grid.ColumnSpan="2">
+            <StatusBar.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*" />
+                            <ColumnDefinition Width="2" />
+                            <ColumnDefinition Width="3*" />
+                            <ColumnDefinition Width="2" />
+                            <ColumnDefinition Width="150" />
+                        </Grid.ColumnDefinitions>
+                    </Grid>
+                </ItemsPanelTemplate>
+            </StatusBar.ItemsPanel>
+            <StatusBarItem>
+                <TextBlock Name="info"  Foreground="#FF4D4D4D"/>
+            </StatusBarItem>
+            <Separator Grid.Column="1" Background="#FF343232" />
+            <StatusBarItem Grid.Column="2">
+                <TextBlock Name="info_mid" Foreground="#FF890505"/>
+            </StatusBarItem>
+            <Separator Grid.Column="3" />
+            <StatusBarItem Grid.Column="4">
+                <ProgressBar x:Name="progressBar"  Maximum="100" Width="150" Height="16" HorizontalAlignment="Center" Visibility="Hidden" />
+            </StatusBarItem>
+        </StatusBar>
+
+    </Grid>
+</Window>
