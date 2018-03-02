@@ -196,6 +196,9 @@
   <ItemGroup>
     <Resource Include="SegmentationCreator_logo.ico" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="teinte.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\Accord.3.6.0\build\Accord.targets" Condition="Exists('..\packages\Accord.3.6.0\build\Accord.targets')" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

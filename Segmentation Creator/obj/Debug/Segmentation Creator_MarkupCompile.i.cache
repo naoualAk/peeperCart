@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-J:\PepperCart\Segmentation Creator\obj\Debug\
+E:\PepperCart\Segmentation Creator\obj\Debug\
 SegmentationCreator
 none
 false
 DEBUG;TRACE
-J:\PepperCart\Segmentation Creator\App.xaml
+E:\PepperCart\Segmentation Creator\App.xaml
 11151548125
-1400768772
+1-1520208327
 24-1547231954
-30-209572364
+30-121115717
 MainWindow.xaml;
 
-True
+False
 
